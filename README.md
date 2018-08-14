@@ -21,3 +21,9 @@ S&P‘2019； | 会议地点：San Francisco, US； | 时间：每月滚动/19�
 ### 4. 计算机网络  
    
 ### 5. 计算机科学理论   
+
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
