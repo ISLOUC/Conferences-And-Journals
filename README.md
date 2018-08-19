@@ -45,7 +45,7 @@
 | ---- | ----------- | ----------------- | ----------------------- | --------------------------------- |
 |1|ACM Symposium on Computational Geometry'2018|Budapest，Hundary|17年10月11日/18年6月11日|“2018年录用率”:73/?|
 |2|ACM-SIAM Symposium on Discrete Algorithms'2019|San Diedo，California,USA|18年7月5日/19年1月6日|“2018年录用率”:|
-|6|International Conference on Concurrency Theory'2017|Berlin, Germany|||
-|7|International Conference on Hybrid Systems:Computation and Control'2018|Porto, Portugal|||
-|8|European Symposium on Algorithms'2018|Helsinki, Finland|||
+|6|International Conference on Concurrency Theory'2018|Beijing, China|18年4月17日/18年9月4日|“2017年录用率”:36/86=41.86%|
+|7|International Conference on Hybrid Systems:Computation and Control'2019|Montreal, Canada|2018年10月10日/2019年4月16日|“2018年录用率”:28/58=48%|
+|8|European Symposium on Algorithms'2019|Munich/Garching, Germany|?/2019年9月10日|“2018年录用率”:73/307=23.78%|
 
