@@ -38,11 +38,14 @@
 | 序号 | 会议名'年份 | 地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ----------------- | ----------------------- | --------------------------------- |
 |4|CAV'2018|Oxford，UK|18年1月31日/18年7月14日|“2018年录用率”:70/?|
+
 1.2 B类
 
 | 序号 | 会议名'年份 | 地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ----------------- | ----------------------- | --------------------------------- |
 |1|ACM Symposium on Computational Geometry'2018|Budapest，Hundary|17年10月11日/18年6月11日|“2018年录用率”:73/?|
 |2|ACM-SIAM Symposium on Discrete Algorithms'2019|San Diedo，California,USA|18年7月5日/19年1月6日|“2018年录用率”:|
-
+|6|International Conference on Concurrency Theory'2017|Berlin, Germany|||
+|7|International Conference on Hybrid Systems:Computation and Control'2018|Porto, Portugal|||
+|8|European Symposium on Algorithms'2018|Helsinki, Finland|||
 
