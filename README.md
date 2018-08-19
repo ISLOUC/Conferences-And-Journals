@@ -25,7 +25,13 @@
 ### 3. 计算机体系结构/并行与分布计算/存储系统   
    
 ### 4. 计算机网络  
-   
+1.2 B类
+
+| 序号 | 会议名'年份 | 地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
+| ---- | ----------- | ----------------- | ----------------------- | --------------------------------- |
+|3|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networ'2018|Barcelona，Spain|18年4月24日/18年9月3日|“2017年录用率”=|
+|4|Fast Software Encryptio'2018|PORTO, PORTUGAL|17年10月6日/18年4月11日|“2017年录用率”=|
+|5|ISOC Network and Distributed System Security Symposi'2018|Cambridge, UK|18年5月21日/18年9月24日|“2017年录用率”=|
 ### 5. 计算机科学理论   
 
 
