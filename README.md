@@ -29,9 +29,9 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|3|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networ'2018|Barcelona，Spain|18年4月24日/18年9月3日|“2017年录用率”=|
-|4|Fast Software Encryptio'2018|PORTO, PORTUGAL|17年10月6日/18年4月11日|“2017年录用率”=|
-|5|ISOC Network and Distributed System Security Symposi'2018|Cambridge, UK|18年5月21日/18年9月24日|“2017年录用率”=|
+|3|SECON'2019|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networ|KINTEX, Seoul, Korea|?年?月?日/19年3月6日|“2018年录用率”：?/?=?|
+|4|IPSN'2019|International Conference on Information Processing in Sensor Networks|PORTO, PORTUGAL|18年10月17日/19年4月16日|“2018年录用率”：?/?=?|
+|5|ICNP'2018|International Conference on Network Protocols|Cambridge, UK|18年5月21日/18年9月24日|“2017年录用率”：?/?=?|
 ### 5. 计算机科学理论   
 1.1 A类
 
