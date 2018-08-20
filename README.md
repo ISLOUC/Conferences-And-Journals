@@ -16,9 +16,9 @@
 
 | 序号 | 会议名'年份 |会议全名| 地点          | 时间：截稿日/召开日        | “X年录用率”：录用数/投稿数=录用率        |
 | ---- | ---------- |---------- | ----------- |----------- |----------- |
-|5|NDSS'2019|ISOC Network and Distributed System Security Symposium| California,USA| 18年8月7日/2019年2月24日|“2018”：71/443=16%|
-|6|CSFW'2018|IEEE Computer Security Foundations Workshop|Oxford,UK|18年1月31日/2018年7月9日|“2018”：25/143=17.5%|
-|7|RAID'2018|International Symposium on Recnt Advances in Intrusion Detection|Heraklion,Crete,Greece|18年4月3日/2018年11月10日|“2017”：25/？=？|
+|5|NDSS'2019|ISOC Network and Distributed System Security Symposium| California,USA| 18年8月7日/19年2月24日|“2018”：71/443=16%|
+|6|CSFW'2018|IEEE Computer Security Foundations Workshop|Oxford,UK|18年1月31日/18年7月9日|“2018”：25/143=17.5%|
+|7|RAID'2018|International Symposium on Recnt Advances in Intrusion Detection|Heraklion,Crete,Greece|18年4月3日/18年11月10日|“2017”：25/？=？|
 
 
 
@@ -47,9 +47,9 @@
 
 | 序号 | 会议名'年份 | 地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ----------------- | ----------------------- | --------------------------------- |
-|1|ACM Symposium on Computational Geometry'2018|Budapest，Hundary|17年10月11日/18年6月11日|“2018年录用率”:73/?|
-|2|ACM-SIAM Symposium on Discrete Algorithms'2019|San Diedo，California,USA|18年7月5日/19年1月6日|“2018年录用率”:|
-|6|International Conference on Concurrency Theory'2018|Beijing, China|18年4月17日/18年9月4日|“2017年录用率”:36/86=41.86%|
-|7|International Conference on Hybrid Systems:Computation and Control'2019|Montreal, Canada|2018年10月10日/2019年4月16日|“2018年录用率”:28/58=48%|
-|8|European Symposium on Algorithms'2019|Munich/Garching, Germany|?/2019年9月10日|“2018年录用率”:73/307=23.78%|
+|1|ACM Symposium on Computational Geometry'2018|Budapest，Hundary|17年10月11日/18年6月11日|“2018”:73/?|
+|2|ACM-SIAM Symposium on Discrete Algorithms'2019|San Diedo，California,USA|18年7月5日/19年1月6日|“2018”:|
+|6|International Conference on Concurrency Theory'2018|Beijing, China|18年4月17日/18年9月4日|“2017”:36/86=41.86%|
+|7|International Conference on Hybrid Systems:Computation and Control'2019|Montreal, Canada|18年10月10日/19年4月16日|“2018”:28/58=48%|
+|8|European Symposium on Algorithms'2019|Munich/Garching, Germany|?/19年9月10日|“2018”:73/307=23.78%|
 
