@@ -15,7 +15,11 @@
 1.2 B类  
 
 | 序号 | 会议名'年份 |会议全名| 地点          | 时间：截稿日/召开日        | “X年录用率”：录用数/投稿数=录用率        |
-| ------------- | ---|---------- | ----------- |----------- |----------- |
+| ---- | ---------- |---------- | ----------- |----------- |----------- |
+|5|NDSS'2019|ISOC Network and Distributed System Security Symposium| California,USA| 18年8月7日/2019年2月24日|“2018年录用率”：71/443=16%|
+|6|CSFW'2018|IEEE Computer Security Foundations Workshop|Oxford,UK|18年1月31日/2018年7月9日|“2018年录用率”：25/143=17.5%|
+|7|RAID'2018|International Symposium on Recnt Advances in Intrusion Detection|Heraklion,Crete,Greece|18年4月3日/2018年11月10日|“2017年录用率”：25/？=？|
+
 
 
 1.3 C类   ...[C类链接](security-C.md)  
