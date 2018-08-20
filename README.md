@@ -7,8 +7,8 @@
 
 |序号| 会议名'年份 | 地点          | 时间：截稿日/召开日        | “X年录用率”：录用数/投稿数=录用率        |
 | ------------- | ----------- |----------- |----------- |----------- |
-|1| CCS'2018 | Toronto,CA     | 18年5月9日/18年10月15日     |“2017年录用率”：151/846=17.8%     |
-|4| S&P‘2019     | San Francisco, US|每月滚动/19年5月23日|“2018年录用率”：？/？=？|
+|1| CCS'2018 | Toronto,CA     | 18年5月9日/18年10月15日     |“2017”：151/846=17.8%     |
+|4| S&P‘2019     | San Francisco, US|每月滚动/19年5月23日|“2018”：？/？=？|
 
 
 
@@ -16,9 +16,9 @@
 
 | 序号 | 会议名'年份 |会议全名| 地点          | 时间：截稿日/召开日        | “X年录用率”：录用数/投稿数=录用率        |
 | ---- | ---------- |---------- | ----------- |----------- |----------- |
-|5|NDSS'2019|ISOC Network and Distributed System Security Symposium| California,USA| 18年8月7日/2019年2月24日|“2018年录用率”：71/443=16%|
-|6|CSFW'2018|IEEE Computer Security Foundations Workshop|Oxford,UK|18年1月31日/2018年7月9日|“2018年录用率”：25/143=17.5%|
-|7|RAID'2018|International Symposium on Recnt Advances in Intrusion Detection|Heraklion,Crete,Greece|18年4月3日/2018年11月10日|“2017年录用率”：25/？=？|
+|5|NDSS'2019|ISOC Network and Distributed System Security Symposium| California,USA| 18年8月7日/2019年2月24日|“2018”：71/443=16%|
+|6|CSFW'2018|IEEE Computer Security Foundations Workshop|Oxford,UK|18年1月31日/2018年7月9日|“2018”：25/143=17.5%|
+|7|RAID'2018|International Symposium on Recnt Advances in Intrusion Detection|Heraklion,Crete,Greece|18年4月3日/2018年11月10日|“2017”：25/？=？|
 
 
 
