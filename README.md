@@ -30,7 +30,7 @@
 
 3.2 B类
 
-| 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
+|序号|会议名'年份| 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |2|SPAA'2018|ACM Symposium on Parallelism in Algorithms and Architectures|Vienna, Austria|18年2月6日/18年7月16日|“2018年录用率”：/=|
 |3|PODC'2018|ACM Symposium on Principles of Distributed Computing|Egham, United Kingdom|18年2月11日/18年7月23日|“2018年录用率”：/=%|
