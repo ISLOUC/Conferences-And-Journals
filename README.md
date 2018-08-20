@@ -30,13 +30,21 @@
 
 3.2 B类
 
-|序号|会议名'年份| 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
+| 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |2|SPAA'2018|ACM Symposium on Parallelism in Algorithms and Architectures|Vienna, Austria|18年2月6日/18年7月16日|“2018年录用率”：/=|
 |3|PODC'2018|ACM Symposium on Principles of Distributed Computing|Egham, United Kingdom|18年2月11日/18年7月23日|“2018年录用率”：/=%|
 |4|CGO'2018|Code Generation and Optimization|Vienna, Austria|17年9月8日/18年2月24日|“2018年录用率”：/=%|
 |5|DAC'2018|Design Automation Conference|San Francisco, California, USA|17年11月14日/18年6月24日|“2018年录用率”：/=%|
+|26|ITC'2018|International Test Conference|Phoenix，Arizona|18年x月x日/18年10月28日|“2018年录用率”：/=%|
+|27|SOCC'2018|ACM Symposium on Cloud Computing|Carlsbad, California, USA|18年5月8日/18年10月11日|“2018年录用率”：/=%|
 ### 4. 计算机网络  
+1.1 A类
+
+| 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
+| ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
+|1|MOBICOM'2018|International Conference on Mobile Computing and Networking|New Delhi, India|18年3月6日/19年10月29日|“2018年录用率”：x/x=x%|
+|2|SIGCOMM'2018|Annual Conference of the ACM Special Interest Group on Data Communication|Budapest, Hungary|18年1月24日/18年8月20日|“2018年录用率”：?%|
 1.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
