@@ -27,7 +27,14 @@
 ### 2. 软件工程/系统软件/程序设计语言  
    
 ### 3. 计算机体系结构/并行与分布计算/存储系统   
-   
+
+3.2 B类
+| 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
+| ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
+|2|SPAA'2018|ACM Symposium on Parallelism in Algorithms and Architectures|Vienna, Austria|18年2月6日/18年7月16日|“2018年录用率”：/=|
+|3|PODC'2018|ACM Symposium on Principles of Distributed Computing|Egham, United Kingdom|18年2月11日/18年7月23日|“2018年录用率”：/=%|
+|4|CGO'2018|Code Generation and Optimization|Vienna, Austria|17年9月8日/18年2月24日|“2018年录用率”：/=%|
+|5|DAC'2018|Design Automation Conference|San Francisco, California, USA|17年11月14日/18年6月24日|“2018年录用率”：/=%|
 ### 4. 计算机网络  
 1.2 B类
 
