@@ -45,6 +45,7 @@
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |1|MOBICOM'2018|International Conference on Mobile Computing and Networking|New Delhi, India|18年3月6日/19年10月29日|“2018年录用率”：x/x=x%|
 |2|SIGCOMM'2018|Annual Conference of the ACM Special Interest Group on Data Communication|Budapest, Hungary|18年1月24日/18年8月20日|“2018年录用率”：?%|
+
 1.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
