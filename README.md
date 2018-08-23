@@ -10,7 +10,7 @@
 |1| CCS'2018 | Toronto,CA     | 18年5月9日/18年10月15日     |“2017”：151/846=17.8%     |
 |2| CRYPTO 2018 | Santa Barbara,CA,US    | 18年2月13日/18年8月19日     |“2015”：74/266=27.8%     |
 |3| Eurocrypt 2018 | Toronto,CA     | 18年10月4日/19年5月19日     |“2014”：38/197=19.3%     |
-|4| S&P‘2019     | San Francisco, US|18年9月1日/19年5月20日|“2018”：？/？=？|
+|4| S&P‘2019     | San Francisco, US|18年9月1日/19年5月20日|“2017”：48/244=19.7%|
 
 
 
@@ -18,8 +18,8 @@
 
 | 序号 | 会议名'年份 |会议全名| 地点          | 时间：截稿日/召开日        | “X年录用率”：录用数/投稿数=录用率        |
 | ---- | ---------- |---------- | ----------- |----------- |----------- |
-|1|ACSAC'2018|Annual Computer Security Applications Conference| San Juan,Puerto Rico,USA| 18年6月15日/18年12月3日|“2018”：|
-|2|ASIACRYPT'2018|International Conference on The Theory and Application of Cryptology and Information Security| Brisbane, Australia| 18年5月11日/18年12月2日|“2018”：|
+|1|ACSAC'2018|Annual Computer Security Applications Conference| San Juan,Puerto Rico,USA| 18年6月15日/18年12月3日|“2017”：48/244=19.7%|
+|2|ASIACRYPT'2018|International Conference on The Theory and Application of Cryptology and Information Security| Brisbane, Australia| 18年5月11日/18年12月2日|“2014”：55/255=21.6%|
 |5|NDSS'2019|ISOC Network and Distributed System Security Symposium| California,USA| 18年8月7日/19年2月24日|“2018”：71/443=16%|
 |6|CSFW'2018|IEEE Computer Security Foundations Workshop|Oxford,UK|18年1月31日/18年7月9日|“2018”：25/143=17.5%|
 |7|RAID'2018|International Symposium on Recnt Advances in Intrusion Detection|Heraklion,Crete,Greece|18年4月3日/18年11月10日|“2017”：25/？=？|
