@@ -37,8 +37,8 @@
 |16|ISSRE|International Symposium on Software Reliability Engineering|
 |17|ISSTA|International Symposium on Software Testing and Analysis|
 |18|Middleware|Conference on middleware|
-|19|SANER 2018|25th IEEE International Conference on Software Analysis, Evolution, and Reengineering|University of Molise in Campobasso, Ital|17年10月27日/18年1月15日|“2018年录用率”：/=%|
-|20|HotOS 2017|Hot Topics in Operating Systems|Whistler, BC|17年1月15日/17年5月7日|“2017年录用率”：/=%|
+|19|SANER 2018|International Conference on Software Analysis, Evolution, and Reengineering|University of Molise in Campobasso, Ital|17年10月27日/18年1月15日|“2018年录用率”：/=%|
+|20|HotOS 2017|USENIX Workshop on Hot Topics in Operating Systems|Whistler, BC|17年1月15日/17年5月7日|“2017年录用率”：/=%|
 |21|ESEM 2018|International Symposium on Empirical Software Engineering and Measurement|University of Molise in Campobasso, Ital|18年5月18日/18年10月11日|“2018年录用率”：/=%|
    
 ### 3. 计算机体系结构/并行与分布计算/存储系统  
