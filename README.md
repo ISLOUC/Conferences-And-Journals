@@ -72,11 +72,13 @@
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |1|MOBICOM'2018|International Conference on Mobile Computing and Networking|New Delhi, India|18年3月6日/19年10月29日|“2018年录用率”：x/x=x%|
 |2|SIGCOMM'2018|Annual Conference of the ACM Special Interest Group on Data Communication|Budapest, Hungary|18年1月24日/18年8月20日|“2018年录用率”：?%|
-
+|3|Infocom'2019|IEEE International Conference on Computer Communications|Paris,France|18年7月31日/19年4月29日|“2018年录用率”：309/1606=19.2%|
 1.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
+|1|SenSys'2018|ACM Conference on Embedded Networked Sensor Systems|Shenzhen,China|18年4月8日/18年11月4日|“2017年录用率”：26/151=17.2%|
+|2|CoNEXT'2018|ACM International Conference on emerging Networking EXperiments and Technologies|Heraklion/Crete,Greece|18年6月23日/18年12月4日|“2017年录用率”：33(+7 short)/171(+51 short)=19.2%(13.7% short)|
 |3|SECON'2019|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks|KINTEX, Seoul, Korea|?年?月?日/19年3月6日|“2018年录用率”：49/211=23.2%|
 |4|IPSN'2019|International Conference on Information Processing in Sensor Networks|PORTO, PORTUGAL|18年10月17日/19年4月16日|“2018年录用率”：22/82=26.8%|
 |5|ICNP'2018|International Conference on Network Protocols|Cambridge, UK|18年5月21日/18年9月24日|“2017年录用率”：39/209=18.7%|
