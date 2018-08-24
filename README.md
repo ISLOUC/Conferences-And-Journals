@@ -34,8 +34,8 @@
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |5|PLDI 2019|ACM SIGPLAN Symposium on Programming Language Design & Implementation|Phoenix Arizona, United States|18年11月16日/19年6月24日|“2017年录用率”：46/172=26.7%|
-|6|CP 2018|International Conference on Principles and Practice of Constraint Programming|Lille, France|18年4月21日/18年8月27日|“2018年录用率”：50/114=43.9%|
-|7|ICSOC 2018|International Conference on Service Oriented Computing|Hangzhou, Zhejiang, China|18年5月28日/18年11月12日|“2017年录用率”：57/179=31.8%|
+|6|POPL 2019|ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages|Lisbon, Portugal|18年7月11日/19年1月6日|“2018年录用率”：50/114=43.9%|
+|7|SOSP 2017|ACM Symposium on Operating Systems Principles|Shanghai|17年4月21日/17年10月29日|“2017年录用率”：57/179=31.8%|
 
 2.2 B类
 
