@@ -61,6 +61,7 @@
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |1|ASPLOS 2019|Architectural Support for Programming Languages and Operating Systems|Williamsburg, VA, USA|18年8月7日/19年4月3日|“2018年录用率”：/=%|
+|2|FAST 2019|Conference on File and Storage Technologies|Boston, MA, USA|18年9月26日/19年2月25日|“2018年录取率”:23/139=16.55%|
 
 3.2 B类
 
