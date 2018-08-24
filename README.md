@@ -71,7 +71,7 @@
 |19|LISA'2018|Large Installation system Administration Conference|Nashville, TN, USA States|18年9月19日/18年10月29日|“2018年录用率”：/=%|
 |20|MSST'2018|Mass Storage Systems and Technologies|Santa Clara, United States|18年3月15日/18年5月14日|“2018年录用率”：/=%|
 |21|PACT'2018|Parallel Architectures and Compilation Techniques|Limassol, Cyprus|18年4月15日/18年11月1日|“2018年录用率”：/=26%|
-|23|RTAS'2018|Real-Time and Embedded Technology and Applications Symposium|Porto, Portugal|17年10月6日/18年4月11日|“2018年录用率”：42/256=16.4%|
+|23|RTAS'2018|Real-Time and Embedded Technology and Applications Symposium|Porto, Portugal|17年10月6日/18年4月11日|“2018年录用率”：34/198=17.1%|
 |24|VEE'2018|Virtual Execution Environments| Williamsburg，Virginia，United States|17年12月13日/18年3月25日|“2018年录用率”：7/22=32%|
 |25|CODES+ISSSACM/IEEE'2018|Conf. Hardware/Software Co-design and System Synthesis|	Torino Incontra, Torino, Italy|2018年4月3日/2018年9月30日|“2018年录用率”：/=%|
 |26|ITC'2018|International Test Conference|Phoenix，Arizona|18年7月20日/18年10月28日|“2018年录用率”：/=%|
