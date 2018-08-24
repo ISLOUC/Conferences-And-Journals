@@ -33,6 +33,9 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
+|9|MoDELS 2018|International Conference on Model Driven Engineering Languages and Systems|Copenhagen, Denmark|18年7月27日/18年10月14日|“2017年录用率”：46/172=26.7%|
+|10|CP 2018|International Conference on Principles and Practice of Constraint Programming|Lille, France|18年4月21日/18年8月27日|“2018年录用率”：50/114=43.9%|
+|11|ICSOC 2018|International Conference on Service Oriented Computing|Hangzhou, Zhejiang, China|18年5月28日/18年11月12日|“2017年录用率”：57/179=31.8%|
 |15|SAS'2018|International Static Analysis Symposium|
 |16|ISSRE|International Symposium on Software Reliability Engineering|
 |17|ISSTA|International Symposium on Software Testing and Analysis|
