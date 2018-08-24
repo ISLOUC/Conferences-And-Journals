@@ -28,11 +28,14 @@
 
 1.3 C类   ...[C类链接](security-C.md)  
 
-### 2. 软件工程/系统软件/程序设计语言  
+### 2. 软件工程/系统软件/程序设计语言
 2.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
+|9|MoDELS 2018|International Conference on Model Driven Engineering Languages and Systems|Copenhagen, Denmark|18年7月27日/18年10月14日|“2017年录用率”：46/172=26.7%|
+|10|CP 2018|International Conference on Principles and Practice of Constraint Programming|Lille, France|18年4月21日/18年8月27日|“2018年录用率”：50/114=43.9%|
+|11|ICSOC 2018|International Conference on Service Oriented Computing|Hangzhou, Zhejiang, China|18年5月28日/18年11月12日|“2017年录用率”：57/179=31.8%|
 |15|SAS'2018|International Static Analysis Symposium|
 |16|ISSRE|International Symposium on Software Reliability Engineering|
 |17|ISSTA|International Symposium on Software Testing and Analysis|
@@ -56,10 +59,6 @@
 |3|PODC'2018|ACM Symposium on Principles of Distributed Computing|Egham, United Kingdom|18年2月11日/18年7月23日|“2018年录用率”：/=%|
 |4|CGO'2018|Code Generation and Optimization|Vienna, Austria|17年9月8日/18年2月24日|“2018年录用率”：/=%|
 |5|DAC'2018|Design Automation Conference|San Francisco, California, USA|17年11月14日/18年6月24日|“2018年录用率”：/=%|
-|6|DATE'2019|Design, Automation & Test in Europe Conference|Florence, ITALY|18年9月10日/19年3月25日|“2018年录用率”：/=%|
-|7|EuroSys'2018|European Conference on Computer Systems|Porto, Portugal|17年10月20日/18年4月23日|“2014年录用率”：27/147=18.4%|
-|8|HPDC'2018|International ACM Symposium on High-Performance Parallel and Distributed Computing|Tempe, Arizona, USA|18年1月17日/18年6月日|“2015年录用率”：19/116=16.4%|
-|9|ICCD'2018|International Conference on Computer Design|Orlando, Florida, USA|18年6月4日/18年10月7日|“2018年录用率”：/=%|
 |18|Performance'2018|International Symposium on Computer Performance, Modeling, Measurements and Evaluation|Toulouse, France|18年5月11日/18年12月5日|“2018年录用率”：/=|
 |19|LISA'2018|Large Installation system Administration Conference|Nashville, TN, USA States|18年9月19日/18年10月29日|“2018年录用率”：/=%|
 |20|MSST'2018|Mass Storage Systems and Technologies|Santa Clara, United States|18年3月15日/18年5月14日|“2018年录用率”：/=%|
@@ -77,6 +76,7 @@
 |1|MOBICOM'2018|International Conference on Mobile Computing and Networking|New Delhi, India|18年3月6日/19年10月29日|“2018年录用率”：x/x=x%|
 |2|SIGCOMM'2018|Annual Conference of the ACM Special Interest Group on Data Communication|Budapest, Hungary|18年1月24日/18年8月20日|“2018年录用率”：?%|
 |3|Infocom'2019|IEEE International Conference on Computer Communications|Paris,France|18年7月31日/19年4月29日|“2018年录用率”：309/1606=19.2%|
+
 1.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
@@ -86,9 +86,9 @@
 |3|SECON'2019|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks|KINTEX, Seoul, Korea|?年?月?日/19年3月6日|“2018年录用率”：49/211=23.2%|
 |4|IPSN'2019|International Conference on Information Processing in Sensor Networks|PORTO, PORTUGAL|18年10月17日/19年4月16日|“2018年录用率”：22/82=26.8%|
 |5|ICNP'2018|Internet Measurement Conference|Cambridge, UK|18年5月21日/18年9月24日|“2017年录用率”：39/209=18.7%|
-|6|MobiHoc'2018|International Symposium on Mobile Ad Hoc Networking and Computing|Los Angeles, US|17年12月22日/18年6月25日|“2017年录用率”：/=%|
-|7|MobiSys'2018|International Conference on Mobile Systems,Applications,and Services|Munich, Germany|17年12月8日/18年6月10日|“2017年录用率”：/=%|
-|8|IWQos'2018|International Workshop on Quality of Service|DolníVítkovic|18年2月28日/18年6月4日|“2017年录用率”：/=%|
+|6|MobiHoc'2018|International Symposium on Mobile Ad Hoc Networking and Computing|Los Angeles, California, US|18年12月15日/18年6月26日|“2017年录用率”：30/178=16.9%|
+|7|MobiSys'2018|International Conference on Mobile Systems,Applications,and Services|Munich, Germany|17年12月8日/18年6月10日|“2017年录用率”：37/138=26.8%|
+|8|IWQos'2018|International Workshop on Quality of Service|Banff, Alberta, Canada|17年2月22日/18年6月4日|“2018年录用率”：26/125=20.8%|
 |9|IMC'2018|International Conference on Network Protocols|Boston, MA, USA|18年5月26日/18年10月31日|“2018年录用率”：43/174=24.7%|
 |10|NOSSDAV'2018|International Workshop on Network and Operating System Support for Digital Audio and Video|Amsterdam, Netherlands|18年4月20日/18年6月12日|“2018年录用率”：12/???=???%   “2012年录用率”：17/47=36.2%|
 |11|NSDI'2019|Networked Systems Design and Implementation|Boston, Massachusetts|18年9月13日/19年2月26日|“2018年录用率”：40/259=15.4%|
