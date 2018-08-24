@@ -62,6 +62,9 @@
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |1|ASPLOS 2019|Architectural Support for Programming Languages and Operating Systems|Williamsburg, VA, USA|18年8月7日/19年4月3日|“2018年录用率”：/=%|
 |2|FAST 2019|Conference on File and Storage Technologies|Boston, MA, USA|18年9月26日/19年2月25日|“2018年录取率”:23/139=16.55%|
+|3|HPCA 2019|High-Performance Computer Architecture|Marriott Marquis Washington, D.C|18年8月3日/19年2月16日|“2018年录取率”:54/260=20.77%|
+|4|ISCA 2019|International Symposium on Computer Architecture|Phoenix, Arizona, USA|xx年x月x日/2019年6月22日|“2017年录取率”：54/322=16.77%|
+|5|MICRO|MICRO|Fukuoka City, Japan|18年4月6日/18年10月20日|“2017年录取率”：61/327=18.65%|
 
 3.2 B类
 
