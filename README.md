@@ -81,6 +81,10 @@
 |11|ICDCS'2018|International Conference on Distributed Computing Systems|Vianna, Austria|17年12月12日/18年7月2日|“2018年录用率”：78/378=20.6%|
 |12|HiPEAC'2019|International Conference on High Performance and Embedded Architectures and Compilers|Valencia, Spain|18年6月29日/19年1月21日|“2018年录用率”：/=|
 |13|SIGMETRICS'2018|International Conference on Measurement and Modeling of Computer Systems|Irvine, California, USA|18年2月19日/18年6月18日|“2018年录用率”：54/?=?%|
+|14|ICPP'2018|International Conference on Parallel Processing|Eugene, OR, USA|
+|15|ICS'2017|International Conference on Supercomputing|Chicago, IL, USA|
+|16|IPDPS'2018|International Parallel & Distributed Processing Symposium|Vancouver, BC, Canada|
+|17|FPGA|ACM/SIGDA International Symposium on Field-Programmable Gate Arrays|Monterey, CA, USA|
 |18|Performance'2018|International Symposium on Computer Performance, Modeling, Measurements and Evaluation|Toulouse, France|18年5月11日/18年12月5日|“2018年录用率”：/=|
 |19|LISA'2018|Large Installation system Administration Conference|Nashville, TN, USA States|18年9月19日/18年10月29日|“2018年录用率”：/=%|
 |20|MSST'2018|Mass Storage Systems and Technologies|Santa Clara, United States|18年3月15日/18年5月14日|“2018年录用率”：/=%|
