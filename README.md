@@ -139,6 +139,9 @@
 | ---- | -- |----------- | ----------------- | ----------------------- | --------------------------------- |
 |1|SoCG'2018|ACM Symposium on Computational Geometry|Budapest，Hundary|17年10月11日/18年6月11日|“2018”:73/177=35.4%|
 |2|SODA'2019|ACM-SIAM Symposium on Discrete Algorithms|San Diedo，California,USA|18年7月5日/19年1月6日|“2017”:181/533=34%|
+|3|CADE/IJCAR'2018|Conference on Automated Deduction/The International Joint Conference on Automated Reasoning|Oxford, United Kingdom|18年2月4日/18年7月14日|“2017”:181/533=34%|
+|4|CCC'2018|IEEE Conference on Computational Complexity|New Brunswick, New Jersey|18年1月24日/18年7月18日|“2017”: 33/98=33.7%|
+|5|ICALP'2018|International Colloquium on Automata, Languages and Programming|Prague, Czech Republic|18年2月16日/18年7月10日|“2017”:88/296=29.7%|
 |6||International Conference on Concurrency Theory'2018|Beijing, China|18年4月17日/18年9月4日|“2017”:36/86=41.86%|
 |7||International Conference on Hybrid Systems:Computation and Control'2019|Montreal, Canada|18年10月10日/19年4月16日|“2018”:28/58=48%|
 |8||European Symposium on Algorithms'2019|Munich/Garching, Germany|?/19年9月10日|“2018”:73/307=23.78%|
