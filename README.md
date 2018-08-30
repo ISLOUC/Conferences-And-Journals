@@ -74,6 +74,7 @@
 |5|MICRO|MICRO|Fukuoka City, Japan|18年4月6日/18年10月20日|“2017年录取率”：61/327=18.65%|
 |6|SC'2018|International Conference for High Performance Computing, Networking, Storage and Analysis|Dallas, Texas, USA|18年3月19日/18年11月1日|“2017年录取率”：61/327=18.7%|
 |7|USENIX ATC'2018|USENIX Annual Technical Conference|Boston, Massachusetts, USA|18年1月30日/18年7月11日|“2017年录取率”：60/283=21%|
+|8|PPoPP'2019|ACM SIGPLAN Annual Symposium Principles and Practice of Parallel Programming|Washington DC, USA|18年8月13日/19年2月16日|“2018年录取率”：9/17=53%|
 
 3.2 B类
 
