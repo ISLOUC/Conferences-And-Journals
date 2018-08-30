@@ -81,6 +81,10 @@
 |3|PODC'2018|ACM Symposium on Principles of Distributed Computing|Egham, United Kingdom|18年2月11日/18年7月23日|“2018年录用率”：41/163=25.15%|
 |4|CGO'2018|Code Generation and Optimization|Vienna, Austria|17年9月8日/18年2月24日|“2018年录用率”：30/105=28.57%|
 |5|DAC'2018|Design Automation Conference|San Francisco, California, USA|17年11月14日/18年6月24日|“2018年录用率”：178/?=?%|
+|6|DATE'2019|Design, Automation and Test in Europe|Florence, Italy|2018年09月10日/2019年03月25日|“2018年录用率”：/=%|
+|7|EuroSys'2018|European Conference on Computer Systems|Porto, Portugal|2017年10月20日/2018年04月23日|“2018年录用率”：27/147=18.4%|
+|8|HDPC'2018|International ACM Symposium on High-Performance Parallel and Distributed Computing|Tempe, Arizona, USA|2018年1月17日/2018年06月11日|“2018年录用率”：19/116=16.4%|
+|9|ICCD'2018|International Conference on Computer Design|Orlando, Florida, USA|2018年6月4日/2018年10月7日|“2018年录用率”：/=%|
 |10|ICCAD'2018|International Conference on Computer-Aided Design|San Diego, CA|18年4月23日/18年11月5日|“2018年录用率”：98/538=18.2%|
 |11|ICDCS'2018|International Conference on Distributed Computing Systems|Vianna, Austria|17年12月12日/18年7月2日|“2018年录用率”：78/378=20.6%|
 |12|HiPEAC'2019|International Conference on High Performance and Embedded Architectures and Compilers|Valencia, Spain|18年6月29日/19年1月21日|“2018年录用率”：/=|
