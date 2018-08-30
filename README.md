@@ -80,6 +80,7 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
+|1|Hot Chips'2018|ACM Symposium on High Performance Chips|Cupertino, CA, USA|18年4月20日/18年8月19日|“2018年录用率”：/=|
 |2|SPAA'2018|ACM Symposium on Parallelism in Algorithms and Architectures|Vienna, Austria|18年2月6日/18年7月16日|“2018年录用率”：36/120=30%|
 |3|PODC'2018|ACM Symposium on Principles of Distributed Computing|Egham, United Kingdom|18年2月11日/18年7月23日|“2018年录用率”：41/163=25.15%|
 |4|CGO'2018|Code Generation and Optimization|Vienna, Austria|17年9月8日/18年2月24日|“2018年录用率”：30/105=28.57%|
