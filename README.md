@@ -73,6 +73,7 @@
 |4|ISCA 2019|International Symposium on Computer Architecture|Phoenix, Arizona, USA|xx年x月x日/2019年6月22日|“2017年录取率”：54/322=16.77%|
 |5|MICRO|MICRO|Fukuoka City, Japan|18年4月6日/18年10月20日|“2017年录取率”：61/327=18.65%|
 |6|SC'2018|International Conference for High Performance Computing, Networking, Storage and Analysis|Dallas, Texas, USA|18年3月19日/18年11月1日|“2017年录取率”：61/327=18.7%|
+|7|USENIX ATC'2018|USENIX Annual Technical Conference|Boston, Massachusetts, USA|18年1月30日/18年7月11日|“2017年录取率”：60/283=21%|
 
 3.2 B类
 
