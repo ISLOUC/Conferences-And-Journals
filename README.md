@@ -11,6 +11,7 @@
 |2| CRYPTO 2018 | Santa Barbara,CA,US    | 18年2月13日/18年8月19日     |“2015”：74/266=27.8%     |
 |3| Eurocrypt 2018 | Toronto,CA     | 18年10月4日/19年5月19日     |“2014”：38/197=19.3%     |
 |4| S&P‘2019     | San Francisco, US|18年9月1日/19年5月20日|“2017”：48/244=19.7%|
+|5| USENIX Security | Baltimore, Maryland, USA|18年2月8日/18年8月15日|“2018”：100/524=19.1%|
 
 
 
