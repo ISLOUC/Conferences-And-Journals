@@ -142,7 +142,7 @@
 | ---- | --------- | ------- | ----------------- | -------------------- | --------------------------- |
 |1|STOC'2018|ACM Symposium on Theory of Computing|Los Angeles, CA|17年11月3日/18年6月25日|"2017": 103/422=24.4%|
 |2|FOCS'2018|IEEE Symposium on Foundations of Computer Science|Paris, France|18年4月6日/18年10月7日|"2016":85/307=27.7%|
-|3|LICS'2018|IEEE Symposium on Logic in Computer Science|Oxford，UK|18年1月31日/18年7月9日||
+|3|LICS'2018|IEEE Symposium on Logic in Computer Science|Oxford，UK|18年1月31日/18年7月9日|"2005": 44/127=34.6%|
 |4|CAV'2018 |Computer Aided Verification|Oxford，UK|18年1月31日/18年7月14日|“2017年录用率”:57/177=32.2%|
 
 1.2 B类
