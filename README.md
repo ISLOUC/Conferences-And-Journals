@@ -53,6 +53,9 @@
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |1|ECOOP|European Conference on Object-Oriented Programming|Amsterdam, The Netherlands|18年1月12日/18年7月16日|“2018”年录用率：26/？=39.4%|
 |2|ETAPS|European Joint Conferences on Theory and Practice of Software|Thessaloniki, Greece|17年10月13日/18年4月14日|“2018”年录用率：144/479=30%|
+|3|FM 2018|International Symposium on Formal Methods|Oxford, UK|18年01月08日/18年07月15日|“2018”年录用率：135/？=%|
+|4|ICPC 2018|International Conference on Program Comprehension |Gothenburg, Sweden|18年01月18日/18年05月27日|“2018”年录用率：44/？=%|
+|5|RE 2018|	International Requirements Engineering Conference |Banff, Alberta, Canada|18年02月16日/18年08月20日|“2018”年录用率：67/？=%|
 |9|MoDELS 2018|International Conference on Model Driven Engineering Languages and Systems|Copenhagen, Denmark|18年7月27日/18年10月14日|“2017年录用率”：46/172=26.7%|
 |10|CP 2018|International Conference on Principles and Practice of Constraint Programming|Lille, France|18年4月21日/18年8月27日|“2018年录用率”：50/114=43.9%|
 |11|ICSOC 2018|International Conference on Service Oriented Computing|Hangzhou, Zhejiang, China|18年5月28日/18年11月12日|“2017年录用率”：57/179=31.8%|
