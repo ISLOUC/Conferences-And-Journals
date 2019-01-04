@@ -1,8 +1,5 @@
 |#|期刊|IF|类别|录用率|审稿周期|
 |-|-|-|-|-|-|
-|1|NATURE|41.577|综合性期刊|约10.62%|约6.5个月|
-|2|SCIENCE|41.058|综合性期刊|约5%|约3.3个月|
-|3|APPLIED MATHEMATICS LETTERS|2.462|应用数学|约95%|约2.0个月|
 |4|RISK ANALYSIS|2.898|数学跨学科应用|较易|约6.0个月|
 |5|DUKE MATHEMATICAL JOURNAL|2.317|数学|较易|"较慢|6-12周"|
 |6|INVENTIONES MATHEMATICAE|2.767|数学|较易|"较慢|6-12周"|
@@ -18,7 +15,6 @@
 |16|IEEE Communications Surveys and Tutorials|20.23|计算机：信息系统|-|"较慢|6-12周"|
 |17|IEEE Internet of Things Journal|5.874|计算机：信息系统|-|-|
 |18|IEEE Transactions on Cloud Computing|7.928|计算机：信息系统|-|-|
-|19|MIS QUARTERLY|5.43|计算机：信息系统|较难|"较慢|6-12周"|
 |20|ACM COMPUTING SURVEYS|5.55|计算机：理论方法|较难|>12周|或约稿|
 |21|Journal of Statistical Software|22.737|计算机：跨学科应用|一般|"较慢|6-12周"|
 |22|Soft Robotics|5.057|机器人学|-|-|
@@ -30,7 +26,6 @@
 |||||||
 |#|期刊|IF|类别|录用率|审稿周期|
 |||||||
-||National Science Review|9.408|综合性期刊|-|-|
 ||Nature Communications|12.353|综合性期刊|66%|约1.0个月|
 ||PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE USA|9.504|综合性期刊|约22.5%|约2.8个月|
 ||Science Advances|11.511|综合性期刊|-|-|
@@ -77,8 +72,6 @@
 ||INFORMATION & MANAGEMENT|3.89|计算机：信息系统|较易|>12周|或约稿|
 ||INFORMATION SCIENCES|4.305|计算机：信息系统|约22.5%|约10.8个月|
 ||Internet Research|3.838|计算机：信息系统|较易|>12周|或约稿|
-||JOURNAL OF INFORMATION TECHNOLOGY|0|计算机：信息系统|一般|>12周|或约稿|
-||JOURNAL OF INFORMATION TECHNOLOGY|4.535|计算机：信息系统|-|-|
 ||JOURNAL OF MANAGEMENT INFORMATION SYSTEMS|2.744|计算机：信息系统|容易|约6.0个月|
 ||JOURNAL OF STRATEGIC INFORMATION SYSTEMS|4.313|计算机：信息系统|较易|>12周|或约稿|
 ||IEEE TRANSACTIONS ON SOFTWARE ENGINEERING|3.331|计算机：软件工程|较易|约6.0个月|
