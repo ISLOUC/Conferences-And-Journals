@@ -13,8 +13,6 @@
 |1T-1|IEEE Transactions on Cloud Computing|7.928|计算机：信息系统|-|4×20|
 |20|ACM COMPUTING SURVEYS|5.55|计算机：理论方法|较难||
 |1T-1|Journal of Statistical Software|22.737|计算机：跨学科应用||6×18,R语言等|
-|23|IEEE COMMUNICATIONS MAGAZINE|9.27|工程：电子与电气|较难||
-|24|IEEE Industrial Electronics Magazine|10.429|工程：电子与电气|-||
 |1T-1|IEEE Transactions on Smart Grid|7.365|工程：电子与电气|-|-|
 |27|PROCEEDINGS OF THE IEEE|9.107|工程：电子与电气|呵呵|12×10|
 |||||||
@@ -42,7 +40,6 @@
 ||SCIENTOMETRICS|2.173|计算机：跨学科应用|容易|"一般|3-6周"|
 ||RELIABILITY ENGINEERING & SYSTEM SAFETY|4.139|工程：工业|约37.5%|约12.0个月|
 |2-2|SAFETY SCIENCE|2.835|工程：工业||10×(30~50)|
-|2-2|IEEE CONTROL SYSTEMS MAGAZINE|5.06|自动化与控制系统|较易|>12周|或约稿|
 |2T-1|COMPLEXITY|1.829|数学跨学科应用|Hindawi$2100|2018：779|
 ||COMMUNICATIONS OF THE ACM|3.063|计算机：硬件|呵呵||
 ||IEEE-ACM TRANSACTIONS ON NETWORKING|3.11|计算机：硬件|较易||
@@ -50,7 +47,6 @@
 ||JOURNAL OF NETWORK AND COMPUTER APPLICATIONS|3.991|计算机：硬件|容易|约9.0个月|
 ||EUROPEAN JOURNAL OF INFORMATION SYSTEMS|3.197|计算机：信息系统|较易||
 |2-2|IEEE Access|3.557|计算机：信息系统|-|6k|
-|2-2|IEEE Cloud Computing(Magzine)|2.912|计算机：信息系统|-|6×10|
 ||IEEE Journal of Biomedical and Health Informatics|3.85|计算机：信息系统|-|-|
 ||IEEE PERVASIVE COMPUTING|3.022|计算机：信息系统|较易|>12周|或约稿|
 |2-2|IEEE Systems Journal|4.337|计算机：信息系统||4×（70~80），ICS IoT,AdHoc,车/电/能源|
@@ -70,25 +66,31 @@
 ||IEEE INTELLIGENT SYSTEMS|2.596|计算机：人工智能|较易|>12周|或约稿|
 ||INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS|3.363|计算机：人工智能|容易|约12.0个月|
 ||JOURNAL OF INTELLIGENT MANUFACTURING|3.667|计算机：人工智能|容易|约3.0个月|
-||ACM TRANSACTIONS ON COMPUTER SYSTEMS|1.76|计算机：理论方法|容易||
+|2-2|ACM TRANSACTIONS ON COMPUTER SYSTEMS|1.76|计算机：理论方法|呵呵|4×4|
+|2-2|Future Generation Computer Systems|4.639|计算机：理论方法|Springer|12×（30~100）|
 |2T-1|IEEE Transactions on Information Forensics and Security|5.824|计算机：理论方法|较易|约6.8个月|
 ||IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS|3.971|计算机：理论方法|约25%|约7.5个月|
 |2-2|COMPUTERS & EDUCATION|4.538|计算机：跨学科应用|Elsevier|12×13|
 |2-2|COMPUTERS & STRUCTURES|2.887|计算机：跨学科应用|约80%|平均3月，土木|
 ||HUMAN-COMPUTER INTERACTION|3.379|计算机：控制论|较易||
 ||USER MODELING AND USER-ADAPTED INTERACTION|2.808|计算机：控制论|较易||
-|2-2|IEEE Circuits and Systems Magazine|3.933|工程：电子与电气|较易||
 ||IEEE ELECTRON DEVICE LETTERS|3.433|工程：电子与电气|约25%|约1.3个月|
-|2-2|IEEE TRANSACTIONS ON COMMUNICATIONS|4.671|工程：电子与电气|容易|约6.0个月|
-||IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY|4.432|工程：电子与电气|容易|约7.0个月|
-|2-2|IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS|5.888|工程：电子与电气|较易|约7.0个月|
-|2T-1|IEEE Vehicular Technology Magazine|6.038|工程：电子与电气||4×10|
+|2-2|IEEE TRANSACTIONS ON COMMUNICATIONS|4.671|工程：电子与电气||约6.0个月|
+|2-2|IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY|4.432|工程：电子与电气||12×（70~80）|
+|2-2|IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS|5.888|工程：电子与电气||12×50|
 ||IET Power Electronics|2.267|工程：电子与电气|-|"一般|3-8周"|
 |2-2|Vehicular Communications|3.289|电信学|Elsevier|4×10|
 |2-2|IEEE Trans on systems man cybernetics-systems|||-|-|
 |3-2|Empirical Software Engineering|2.534|||6×18（30~50长文）、企业实践、软件分析|
 |3-2|Information and Software Technology|2.297||||
 |3-2|Automated Software Engineering|1.914||||
+||Magazine|||||
+|1T-1|IEEE COMMUNICATIONS MAGAZINE|9.27|工程：电子与电气|较难||
+|1T-1|IEEE Industrial Electronics Magazine|10.429|工程：电子与电气|-||
+|2-2|IEEE CONTROL SYSTEMS MAGAZINE|5.06|自动化与控制系统|||
+|2-2|IEEE Circuits and Systems Magazine|3.933|工程：电子与电气|较易||
+|2-2|IEEE Cloud Computing(Magzine)|2.912|计算机：信息系统|-|6×10|
+|2T-1|IEEE Vehicular Technology Magazine|6.038|工程：电子与电气||4×10|
 |3-2|IEEE Software（Magzine）|1.963|||6×20|
 |3-2|IEEE MultiMedia（Magzine）|||||
 
