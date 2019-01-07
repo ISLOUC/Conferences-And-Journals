@@ -1,24 +1,22 @@
 |分区大-小|期刊|IF|类别|录用率|审稿周期|
 |-|-|-|-|-|-|
 |8|MATHEMATICAL PROGRAMMING|2.665|计算机：软件工程|||
-|9|FOUNDATIONS OF COMPUTATIONAL MATHEMATICS|3.056|计算机：理论方法|||
+|1T-1|AUTOMATICA|6.126|自动化与控制系统|较易|约5.3个月|
 |10|APPLIED MATHEMATICAL MODELLING|2.617|工程：综合||约10.2个月|
-|11|AUTOMATICA|6.126|自动化与控制系统|较易|约5.3个月|
+|10|APPLIED MATHEMATICAL MODELLING|2.617|工程：综合||约10.2个月|
 |12|IEEE Transactions on Cybernetics|8.803|自动化与控制系统|-|12×20，算法控制CPS如数据注入|
 |13|IEEE Transactions on Industrial Informatics|5.43|自动化与控制系统|较难|约4.5个月|
 |14|IEEE NETWORK|7.197|计算机：硬件|较易||
-|15|IEEE WIRELESS COMMUNICATIONS|9.202|计算机：硬件|较难|"较慢|6×25|
+|1T-1|IEEE WIRELESS COMMUNICATIONS|9.202|计算机：硬件|较难|"较慢|6×25|
 |16|IEEE Communications Surveys and Tutorials|20.23|计算机：信息系统|-||
-|17|IEEE Internet of Things Journal|5.874|计算机：信息系统|-|6×80|
-|18|IEEE Transactions on Cloud Computing|7.928|计算机：信息系统|-|4×20|
-|20|ACM COMPUTING SURVEYS|5.55|计算机：理论方法|较难|>12周|或约稿|
-|21|Journal of Statistical Software|22.737|计算机：跨学科应用|一般||
-|22|Soft Robotics|5.057|机器人学|-|-|
+|1T-1|IEEE Internet of Things Journal|5.874|计算机：信息系统|-|6×80|
+|1T-1|IEEE Transactions on Cloud Computing|7.928|计算机：信息系统|-|4×20|
+|20|ACM COMPUTING SURVEYS|5.55|计算机：理论方法|较难||
+|1T-1|Journal of Statistical Software|22.737|计算机：跨学科应用||6×18,R语言等|
 |23|IEEE COMMUNICATIONS MAGAZINE|9.27|工程：电子与电气|较难||
 |24|IEEE Industrial Electronics Magazine|10.429|工程：电子与电气|-||
-|25|IEEE TRANSACTIONS ON POWER ELECTRONICS|6.812|工程：电子与电气|较难|约3.2个月|
-|26|IEEE Transactions on Smart Grid|7.365|工程：电子与电气|-|-|
-|27|PROCEEDINGS OF THE IEEE|9.107|工程：电子与电气|较难||
+|1T-1|IEEE Transactions on Smart Grid|7.365|工程：电子与电气|-|-|
+|27|PROCEEDINGS OF THE IEEE|9.107|工程：电子与电气|呵呵|12×10|
 |||||||
 |#|期刊|IF|类别|录用率|审稿周期|
 |||||||
