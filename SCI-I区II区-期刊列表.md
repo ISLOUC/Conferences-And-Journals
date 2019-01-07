@@ -92,3 +92,8 @@
 ||IET Power Electronics|2.267|工程：电子与电气|-|"一般|3-8周"|
 ||Vehicular Communications|3.289|电信学|-|-|
 |2-2|IEEE Trans on systems man cybernetics-systems|||-|-|
+|3-2|Empirical Software Engineering|2.534|||6×18（30~50长文）、企业实践、软件分析|
+|3-2|Information and Software Technology|2.297||||
+|3-2|Automated Software Engineering|1.914||||
+|3-2|IEEE Software（Magzine）|1.963|||6×20|
+
