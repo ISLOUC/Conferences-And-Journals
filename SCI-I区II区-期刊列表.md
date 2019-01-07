@@ -47,47 +47,48 @@
 ||Journal of Informetrics|3.484|计算机：跨学科应用|-|-|
 ||SCIENTOMETRICS|2.173|计算机：跨学科应用|容易|"一般|3-6周"|
 ||RELIABILITY ENGINEERING & SYSTEM SAFETY|4.139|工程：工业|约37.5%|约12.0个月|
-||SAFETY SCIENCE|2.835|工程：工业|约50%|约3.1个月|
-||IEEE CONTROL SYSTEMS MAGAZINE|5.06|自动化与控制系统|较易|>12周|或约稿|
-||COMPLEXITY|1.829|数学跨学科应用|容易|>12周|或约稿|
+|2-2|SAFETY SCIENCE|2.835|工程：工业|约50%|约3.1个月|
+|2-2|IEEE CONTROL SYSTEMS MAGAZINE|5.06|自动化与控制系统|较易|>12周|或约稿|
+|2-1|COMPLEXITY|1.829|数学跨学科应用|容易|>12周|或约稿|
 ||COMMUNICATIONS OF THE ACM|3.063|计算机：硬件|较易|"较慢|6-12周"|
 ||IEEE-ACM TRANSACTIONS ON NETWORKING|3.11|计算机：硬件|较易|"偏慢|4-8周"|
 ||IEEE Transactions on Dependable and Secure Computing|4.41|计算机：硬件|容易|"较慢|6-12周"|
 ||JOURNAL OF NETWORK AND COMPUTER APPLICATIONS|3.991|计算机：硬件|容易|约9.0个月|
 ||EUROPEAN JOURNAL OF INFORMATION SYSTEMS|3.197|计算机：信息系统|较易|>12周|或约稿|
-||IEEE Access|3.557|计算机：信息系统|-|-|
-||IEEE Cloud Computing|2.912|计算机：信息系统|-|-|
+|2-2|IEEE Access|3.557|计算机：信息系统|-|-|
+|2-2|IEEE Cloud Computing|2.912|计算机：信息系统|-|-|
 ||IEEE Journal of Biomedical and Health Informatics|3.85|计算机：信息系统|-|-|
 ||IEEE PERVASIVE COMPUTING|3.022|计算机：信息系统|较易|>12周|或约稿|
-||IEEE Systems Journal|4.337|计算机：信息系统|容易|"较慢|6-12周"|
+|2-2|IEEE Systems Journal|4.337|计算机：信息系统|容易|"较慢|6-12周"|
 ||IEEE Transactions on Emerging Topics in Computing|3.626|计算机：信息系统|-|-|
 ||IEEE TRANSACTIONS ON MOBILE COMPUTING|4.098|计算机：信息系统|较易|约7.5个月|
-||IEEE TRANSACTIONS ON MULTIMEDIA|3.977|计算机：信息系统|较易|约3.0个月|
+|2T-1|IEEE TRANSACTIONS ON MULTIMEDIA|3.977|计算机：信息系统|较易|约3.0个月|
 ||IEEE Transactions on Services Computing|4.418|计算机：信息系统|较易|>12周|或约稿|
-||IEEE Wireless Communications Letters|3.096|计算机：信息系统|-|-|
+|2-2|IEEE Wireless Communications Letters|3.096|计算机：信息系统|-|-|
 ||INFORMATION & MANAGEMENT|3.89|计算机：信息系统|较易|>12周|或约稿|
-||INFORMATION SCIENCES|4.305|计算机：信息系统|约22.5%|约10.8个月|
-||Internet Research|3.838|计算机：信息系统|较易|>12周|或约稿|
+|2T-1|INFORMATION SCIENCES|4.305|计算机：信息系统|约22.5%|约10.8个月|
+|2-2|Internet Research|3.838|计算机：信息系统|较易|>12周|或约稿|
 ||JOURNAL OF MANAGEMENT INFORMATION SYSTEMS|2.744|计算机：信息系统|容易|约6.0个月|
 ||JOURNAL OF STRATEGIC INFORMATION SYSTEMS|4.313|计算机：信息系统|较易|>12周|或约稿|
-||IEEE TRANSACTIONS ON SOFTWARE ENGINEERING|3.331|计算机：软件工程|较易|约6.0个月|
+|2-2|IEEE TRANSACTIONS ON SOFTWARE ENGINEERING|3.331|计算机：软件工程|较易|约6.0个月|
 ||ACM Transactions on Intelligent Systems and Technology|2.973|计算机：人工智能|-|-|
 ||APPLIED SOFT COMPUTING|3.907|计算机：人工智能|容易|约24.0个月|
 ||IEEE INTELLIGENT SYSTEMS|2.596|计算机：人工智能|较易|>12周|或约稿|
 ||INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS|3.363|计算机：人工智能|容易|约12.0个月|
 ||JOURNAL OF INTELLIGENT MANUFACTURING|3.667|计算机：人工智能|容易|约3.0个月|
 ||ACM TRANSACTIONS ON COMPUTER SYSTEMS|1.76|计算机：理论方法|容易|>12周|或约稿|
-||IEEE Transactions on Information Forensics and Security|5.824|计算机：理论方法|较易|约6.8个月|
+|2T-1|IEEE Transactions on Information Forensics and Security|5.824|计算机：理论方法|较易|约6.8个月|
 ||IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS|3.971|计算机：理论方法|约25%|约7.5个月|
 ||COMPUTERS & EDUCATION|4.538|计算机：跨学科应用|容易|"一般|3-6周"|
-||COMPUTERS & STRUCTURES|2.887|计算机：跨学科应用|约80%|平均3月|
+|2-2|COMPUTERS & STRUCTURES|2.887|计算机：跨学科应用|约80%|平均3月，土木|
 ||HUMAN-COMPUTER INTERACTION|3.379|计算机：控制论|较易|>12周|或约稿|
 ||USER MODELING AND USER-ADAPTED INTERACTION|2.808|计算机：控制论|较易|>12周|或约稿|
-||IEEE Circuits and Systems Magazine|3.933|工程：电子与电气|较易|>12周|或约稿|
+|2-2|IEEE Circuits and Systems Magazine|3.933|工程：电子与电气|较易|>12周|或约稿|
 ||IEEE ELECTRON DEVICE LETTERS|3.433|工程：电子与电气|约25%|约1.3个月|
 ||IEEE TRANSACTIONS ON COMMUNICATIONS|4.671|工程：电子与电气|容易|约6.0个月|
 ||IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY|4.432|工程：电子与电气|容易|约7.0个月|
-||IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS|5.888|工程：电子与电气|较易|约7.0个月|
+|2-2|IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS|5.888|工程：电子与电气|较易|约7.0个月|
 ||IEEE Vehicular Technology Magazine|6.038|工程：电子与电气|容易|>12周|或约稿|
 ||IET Power Electronics|2.267|工程：电子与电气|-|"一般|3-8周"|
 ||Vehicular Communications|3.289|电信学|-|-|
+|2-2|IEEE Trans on systems man cybernetics-systems|||-|-|
