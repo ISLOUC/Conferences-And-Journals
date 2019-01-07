@@ -1,9 +1,5 @@
 |#|期刊|IF|类别|录用率|审稿周期|
 |-|-|-|-|-|-|
-|4|RISK ANALYSIS|2.898|数学跨学科应用|较易|约6.0个月|
-|5|DUKE MATHEMATICAL JOURNAL|2.317|数学|较易|"较慢|6-12周"|
-|6|INVENTIONES MATHEMATICAE|2.767|数学|较易|"较慢|6-12周"|
-|7|Publications Mathematiques de l IHES|1.957|数学|较易|>12周|或约稿|
 |8|MATHEMATICAL PROGRAMMING|2.665|计算机：软件工程|较易|"偏慢|4-8周"|
 |9|FOUNDATIONS OF COMPUTATIONAL MATHEMATICS|3.056|计算机：理论方法|较易|>12周|或约稿|
 |10|APPLIED MATHEMATICAL MODELLING|2.617|工程：综合|容易|约10.2个月|
