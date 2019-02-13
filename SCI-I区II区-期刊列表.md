@@ -83,7 +83,8 @@
 |3-2|Empirical Software Engineering|2.534|||6×18（30~50长文）、企业实践、软件分析|
 |3-2|Information and Software Technology|2.297||||
 |3-2|Automated Software Engineering|1.914||||
-||Magazine|||||
+|3-2|IEEE transaction on reliability|2.602|软工2，硬件2||4×（20~30）|
+|---|Magazine|||||
 |1T-1|IEEE COMMUNICATIONS MAGAZINE|9.27|工程：电子与电气|||
 |1T-1|IEEE Industrial Electronics Magazine|10.429|工程：电子与电气|-||
 |2-2|IEEE CONTROL SYSTEMS MAGAZINE|5.06|自动化与控制系统|||
@@ -92,5 +93,5 @@
 |2T-1|IEEE Vehicular Technology Magazine|6.038|工程：电子与电气||4×10|
 |3-2|IEEE Software（Magzine）|1.963|||6×20|
 |3-2|IEEE MultiMedia（Magzine）|||||
-|||||||
+|--|---|----||||
 |4T-1|THEORY AND PRACTICE OF LOGIC PROGRAMMING|1.069||||
