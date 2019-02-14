@@ -64,7 +64,7 @@
 |14|ICWS 2018|International Conference on Web Services （Research Track）|Seattle, WA, USA|18年3月31日/18年6月25日|“2018年录用率”：32/116=27.6%|
 |15|SAS 2018|International Static Analysis Symposium|Freiburg, Germany|18年3月31日/18年8月29日|"2017年录取率"：|
 |16|ISSRE 2017|International Symposium on Software Reliability Engineering|Toulouse, France|17年5月12日/17年10月23日|"2017年录取率"：|
-|17|ISSTA 2018|International Symposium on Software Testing and Analysis|Amsterdam, The Netherlands|18年1月29日/18年7月16日|"2018年录取率"：|
+|17|ISSTA 2018|International Symposium on Software Testing and Analysis|Amsterdam, The Netherlands|18年1月29日/18年7月16日|"2014年录取率"：36/128=28%|
 |18|Middleware|Conference on middleware|Rennes, France|18年5月11日/18年12月10日|"2017年录取率"：|
 |19|SANER 2018|International Conference on Software Analysis, Evolution, and Reengineering|University of Molise in Campobasso, Ital|17年10月27日/18年1月15日|“2018年录用率”：/=%|
 |20|HotOS 2017|USENIX Workshop on Hot Topics in Operating Systems|Whistler, BC|17年1月15日/17年5月7日|“2017年录用率”：/=%|
