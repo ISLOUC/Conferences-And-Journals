@@ -81,19 +81,20 @@
 |1|ASPLOS 2019|Architectural Support for Programming Languages and Operating Systems|Williamsburg, VA, USA|18年8月7日/19年4月3日|“2018年录用率”：/=%|
 |2|FAST 2019|Conference on File and Storage Technologies|Boston, MA, USA|18年9月26日/19年2月25日|“2018年录取率”:23/139=16.55%|
 |3|HPCA 2019|High-Performance Computer Architecture|Marriott Marquis Washington, D.C|18年8月3日/19年2月16日|“2018年录取率”:54/260=20.77%|
-|4|ISCA 2019|International Symposium on Computer Architecture|Phoenix, Arizona, USA|xx年x月x日/2019年6月22日|“2017年录取率”：54/322=16.77%|
-|5|MICRO|MICRO|Fukuoka City, Japan|18年4月6日/18年10月20日|“2017年录取率”：61/327=18.65%|
-|6|SC'2018|International Conference for High Performance Computing, Networking, Storage and Analysis|Dallas, Texas, USA|18年3月19日/18年11月1日|“2017年录取率”：61/327=18.7%|
-|7|USENIX ATC'2018|USENIX Annual Technical Conference|Boston, Massachusetts, USA|18年1月30日/18年7月11日|“2017年录取率”：60/283=21%|
+|4|ISCA 2019|International Symposium on Computer Architecture|Phoenix, Arizona, USA|2018年12月7日/2019年6月22日|“2017年录取率”：54/322=16.77%|
+|5|MICRO'2019|The IEEE/ACM International Symposium on Microarchitecture|Columbus, Ohio, USA|2019年4月5日/19年10月12日|“2017年录取率”：61/327=18.65%|
+|6|SC'2019|International Conference for High Performance Computing, Networking, Storage and Analysis|Denver, Colorado, USA|19年4月2日/19年11月19日|“2017年录取率”：61/327=18.7%|
+|7|USENIX ATC'2019|USENIX Annual Technical Conference|Boston, Massachusetts, USA|19年1月10日/19年7月10日|“2017年录取率”：60/283=21%|
 |8|PPoPP'2019|ACM SIGPLAN Annual Symposium Principles and Practice of Parallel Programming|Washington DC, USA|18年8月13日/19年2月16日|“2018年录取率”：9/17=53%|
+|9|DAC'2019|Design Automation Conference|Las Vegas, Nevada, USA|18年11月20日/19年6月2日|“2017年录取率”：60/283=21%|
 
 3.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |1|Hot Chips'2018|ACM Symposium on High Performance Chips|Cupertino, CA, USA|18年4月20日/18年8月19日|“2018年录用率”：/=|
-|2|SPAA'2018|ACM Symposium on Parallelism in Algorithms and Architectures|Vienna, Austria|18年2月6日/18年7月16日|“2018年录用率”：36/120=30%|
-|3|PODC'2018|ACM Symposium on Principles of Distributed Computing|Egham, United Kingdom|18年2月11日/18年7月23日|“2018年录用率”：41/163=25.15%|
+|2|SPAA'2019|ACM Symposium on Parallelism in Algorithms and Architectures|Phoenix, Arizona, USA|19年1月8日/19年6月22日|“2018年录用率”：36/120=30%|
+|3|PODC'2019|ACM Symposium on Principles of Distributed Computing|Toronto, Canada|19年2月18日/19年7月29日|“2018年录用率”：41/163=25.15%|
 |4|CGO'2018|Code Generation and Optimization|Vienna, Austria|17年9月8日/18年2月24日|“2018年录用率”：30/105=28.57%|
 |5|DAC'2018|Design Automation Conference|San Francisco, California, USA|17年11月14日/18年6月24日|“2018年录用率”：178/?=?%|
 |6|DATE'2019|Design, Automation and Test in Europe|Florence, Italy|2018年09月10日/2019年03月25日|“2018年录用率”：/=%|
@@ -116,7 +117,7 @@
 |24|VEE'2018|Virtual Execution Environments| Williamsburg，Virginia，United States|17年12月13日/18年3月25日|“2018年录用率”：7/22=32%|
 |25|CODES+ISSSACM/IEEE'2018|Conf. Hardware/Software Co-design and System Synthesis|	Torino Incontra, Torino, Italy|2018年4月3日/2018年9月30日|“2018年录用率”：/=%|
 |26|ITC'2018|International Test Conference|Phoenix，Arizona|18年7月20日/18年10月28日|“2018年录用率”：/=%|
-|27|SOCC'2018|ACM Symposium on Cloud Computing|Carlsbad, California, USA|18年5月8日/18年10月11日|“2018年录用率”：/=%|
+|27|SOCC'2019|ACM Symposium on Cloud Computing|Chaminade, Santa Cruz, California|19年6月10日/19年11月20日|“2018年录用率”：/=%|
 ### 4. 计算机网络  
 1.1 A类
 
