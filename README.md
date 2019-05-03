@@ -165,5 +165,5 @@
 |5|ICALP'2018|International Colloquium on Automata, Languages and Programming|Prague, Czech Republic|18年2月16日/18年7月10日|“2017”:88/296=29.7%|
 |6||International Conference on Concurrency Theory'2018|Beijing, China|18年4月17日/18年9月4日|“2017”:36/86=41.86%|
 |7||International Conference on Hybrid Systems:Computation and Control'2019|Montreal, Canada|18年10月10日/19年4月16日|“2018”:28/58=48%|
-|8||Theory and Applications of Satisfiability Testing'2019| Lisboa, Portugal|19年3月8日/19年7月7日|“2018”:73/307=23.78%|
+|8|SAT|Theory and Applications of Satisfiability Testing'2019| Lisboa, Portugal|19年3月8日/19年7月7日|“2018”:73/307=23.78%|
 
