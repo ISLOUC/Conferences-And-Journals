@@ -1,9 +1,9 @@
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
 |1| CF 2019 |Computing Frontiers|Alghero, Sardinia, Italy|19年1月14日/19年4月30日     |“2019”：/=%     |
-|2| SYSTOR 2019 |ACM International Systems and Storage Conference|Beijing, China | 19年4月19日/19年7月15日 |“2015”：/=%  |
-|3| NOCS 2019 |ACM/IEEE International Symposium on Networks-on-Chip|Taipei, Taiwan, China|19年4月26日/19年10月28日|“2018”：/=%  |
-|4| ASAP 2019| Application-Specific Systems, Architectures, and Processors|Beijing, China | 19年6月17日/19年10月8日 |“2018”：/=%  |
+|2| SYSTOR 2019 |ACM International Systems and Storage Conference|Haifa, Israel| 19年3月7日/19年6月3日 |“2015”：/=%  |
+|3| NOCS 2019 |ACM/IEEE International Symposium on Networks-on-Chip|New York, USA|19年5月10日/19年10月17日|“2018”：/=%  |
+|4| ASAP 2019| Application-Specific Systems, Architectures, and Processors|New York, USA| 19年4月8日/19年7月15日 |“2018”：/=%  |
 |5| ASP-DAC 2019|Asia and South Pacific Design Automation Conference|Guilin, China|19年4月30日/19年7月29日|“2018”：/=%  |
 |6| Euro-Par 2019|European Conference on Parallel and Distributed Computing|Montréal, QC, Canada. | 19年1月29日/19年5月27日 |“2018”：/=%  |
 |7| ETC 2019 |European Test Symposium |Alghero, Sardinia, Italy|19年1月14日/19年4月30日     |“2019”：/=%     |
