@@ -1,1 +1,20 @@
-
+| 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
+| ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
+|1| CF 2019 |Computing Frontiers|Alghero, Sardinia, Italy|19年1月14日/19年4月30日     |“2019”：/=%     |
+|2| SPIN |International SPIN Symposium on Model Checking of Software|Beijing, China | 19年4月19日/19年7月15日 |“2015”：/=%  |
+|3| ATVA'2019 |International Symposium on Automated Technology for Verification and Analysis |Taipei, Taiwan, China|19年4月26日/19年10月28日|“2018”：/=%  |
+|4| LOPSTR'2019 |International Symposium on Logic-Based Program Synthesis and Transformation|Beijing, China | 19年6月17日/19年10月8日 |“2018”：/=%  |
+|5| TASE'2019 |International Symposium on Theoretical Aspects of Software Engineering|Guilin, China|19年4月30日/19年7月29日|“2018”：/=%  |
+|6| MSR'2019 |Mining Software Repositories|Montréal, QC, Canada. | 19年1月29日/19年5月27日 |“2018”：/=%  |
+|7| CF 2019 |Computing Frontiers|Alghero, Sardinia, Italy|19年1月14日/19年4月30日     |“2019”：/=%     |
+|8| SPIN |International SPIN Symposium on Model Checking of Software|Beijing, China | 19年4月19日/19年7月15日 |“2015”：/=%  |
+|9| ATVA'2019 |International Symposium on Automated Technology for Verification and Analysis |Taipei, Taiwan, China|19年4月26日/19年10月28日|“2018”：/=%  |
+|10| LOPSTR'2019 |International Symposium on Logic-Based Program Synthesis and Transformation|Beijing, China | 19年6月17日/19年10月8日 |“2018”：/=%  |
+|11| CF 2019 |Computing Frontiers|Alghero, Sardinia, Italy|19年1月14日/19年4月30日     |“2019”：/=%     |
+|12| SPIN |International SPIN Symposium on Model Checking of Software|Beijing, China | 19年4月19日/19年7月15日 |“2015”：/=%  |
+|13| ATVA'2019 |International Symposium on Automated Technology for Verification and Analysis |Taipei, Taiwan, China|19年4月26日/19年10月28日|“2018”：/=%  |
+|14| LOPSTR'2019 |International Symposium on Logic-Based Program Synthesis and Transformation|Beijing, China | 19年6月17日/19年10月8日 |“2018”：/=%  |
+|15| TASE'2019 |International Symposium on Theoretical Aspects of Software Engineering|Guilin, China|19年4月30日/19年7月29日|“2018”：/=%  |
+|16| MSR'2019 |Mining Software Repositories|Montréal, QC, Canada. | 19年1月29日/19年5月27日 |“2018”：/=%  |
+|17| CF 2019 |Computing Frontiers|Alghero, Sardinia, Italy|19年1月14日/19年4月30日     |“2019”：/=%     |
+|18| SPIN |International SPIN Symposium on Model Checking of Software|Beijing, China | 19年4月19日/19年7月15日 |“2015”：/=%  |
