@@ -110,13 +110,13 @@
 |16|IPDPS'2019|International Parallel & Distributed Processing Symposium|Rio de Janeiro, Brazil|18年10月8日/19年5月20日|“2018年录用率”：113/461=24.5%|
 |17|FPGA‘2018|ACM/SIGDA International Symposium on Field-Programmable Gate Arrays|Monterey, CA, USA|17年9月17日/18年2月25日|“2018年录用率”：/=|
 |18|Performance'2018|International Symposium on Computer Performance, Modeling, Measurements and Evaluation|Toulouse, France|18年5月11日/18年12月5日|“2018年录用率”：/=|
-|19|LISA'2018|Large Installation system Administration Conference|Nashville, TN, USA States|18年9月19日/18年10月29日|“2018年录用率”：/=%|
+|19|LISA'2018|Large Installation system Administration Conference|Portland, OR, USA|19年6月18日/19年10月28日|“2018年录用率”：/=%|
 |20|MSST'2019|Mass Storage Systems and Technologies|Santa Clara University|19年1月7日/19年5月20日|“2018年录用率”：/=%|
-|21|PACT'2019|Parallel Architectures and Compilation Techniques|Limassol, Cyprus|18年4月15日/18年11月1日|“2018年录用率”：31/119=26%|
+|21|PACT'2019|Parallel Architectures and Compilation Techniques|Seattle,WA,USA|19年4月15日/19年9月21日|“2018年录用率”：31/119=26%|
 |23|RTAS'2019|Real-Time and Embedded Technology and Applications Symposium|Montreal, Canada|18年10月17日/19年4月16日|“2018年录用率”：34/198=17.1%|
 |24|VEE'2018|Virtual Execution Environments| Williamsburg，Virginia，United States|17年12月13日/18年3月25日|“2018年录用率”：7/22=32%|
 |25|CODES+ISSSACM/IEEE'2019|Conf. Hardware/Software Co-design and System Synthesis|New York, USA|2019年4月5日/2018年10月13日|“2018年录用率”：/=%|
-|26|ITC'2019|International Test Conference|Phoenix，Arizona|19年7月20日/19年10月28日|“2018年录用率”：/=%|
+|26|ITC'2019|International Test Conference|Washington DC, USA|19年4月20日/19年11月11日|“2018年录用率”：/=%|
 |27|SOCC'2019|ACM Symposium on Cloud Computing|Chaminade, Santa Cruz, California|19年6月10日/19年11月20日|“2018年录用率”：/=%|
 |28|CLUSTER'2019|IEEE Internation Conference on Cluster Computing|Albuquerque, New Mexico, USA|19年5月10日/19年9月23日|“2019年录用率”：/=%|
 
@@ -165,5 +165,5 @@
 |5|ICALP'2018|International Colloquium on Automata, Languages and Programming|Prague, Czech Republic|18年2月16日/18年7月10日|“2017”:88/296=29.7%|
 |6||International Conference on Concurrency Theory'2018|Beijing, China|18年4月17日/18年9月4日|“2017”:36/86=41.86%|
 |7||International Conference on Hybrid Systems:Computation and Control'2019|Montreal, Canada|18年10月10日/19年4月16日|“2018”:28/58=48%|
-|8|SAT|Theory and Applications of Satisfiability Testing'2019| Lisboa, Portugal|19年3月8日/19年7月7日|“2018”:73/307=23.78%|
+|8||European Symposium on Algorithms'2019|Munich/Garching, Germany|?/19年9月10日|“2018”:73/307=23.78%|
 
