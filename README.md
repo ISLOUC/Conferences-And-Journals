@@ -111,9 +111,9 @@
 |17|FPGA‘2018|ACM/SIGDA International Symposium on Field-Programmable Gate Arrays|Monterey, CA, USA|17年9月17日/18年2月25日|“2018年录用率”：/=|
 |18|Performance'2018|International Symposium on Computer Performance, Modeling, Measurements and Evaluation|Toulouse, France|18年5月11日/18年12月5日|“2018年录用率”：/=|
 |19|LISA'2018|Large Installation system Administration Conference|Nashville, TN, USA States|18年9月19日/18年10月29日|“2018年录用率”：/=%|
-|20|MSST'2018|Mass Storage Systems and Technologies|Santa Clara, United States|18年3月15日/18年5月14日|“2018年录用率”：/=%|
+|20|MSST'2019|Mass Storage Systems and Technologies|Santa Clara University|19年1月7日/19年5月20日|“2018年录用率”：/=%|
 |21|PACT'2019|Parallel Architectures and Compilation Techniques|Limassol, Cyprus|18年4月15日/18年11月1日|“2018年录用率”：31/119=26%|
-|23|RTAS'2018|Real-Time and Embedded Technology and Applications Symposium|Porto, Portugal|17年10月6日/18年4月11日|“2018年录用率”：34/198=17.1%|
+|23|RTAS'2018|Real-Time and Embedded Technology and Applications Symposium|Montreal, Canada|18年10月17日/19年4月16日|“2018年录用率”：34/198=17.1%|
 |24|VEE'2018|Virtual Execution Environments| Williamsburg，Virginia，United States|17年12月13日/18年3月25日|“2018年录用率”：7/22=32%|
 |25|CODES+ISSSACM/IEEE'2019|Conf. Hardware/Software Co-design and System Synthesis|New York, USA|2019年4月5日/2018年10月13日|“2018年录用率”：/=%|
 |26|ITC'2019|International Test Conference|Phoenix，Arizona|19年7月20日/19年10月28日|“2018年录用率”：/=%|
