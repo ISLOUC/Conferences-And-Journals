@@ -68,10 +68,10 @@
 |15|SAS 2018|International Static Analysis Symposium|Freiburg, Germany|18年3月31日/18年8月29日|"2017年录取率"：|
 |16|ISSRE 2017|International Symposium on Software Reliability Engineering|Toulouse, France|17年5月12日/17年10月23日|"2017年录取率"：|
 |17|ISSTA 2018|International Symposium on Software Testing and Analysis|Amsterdam, The Netherlands|18年1月29日/18年7月16日|"2014年录取率"：36/128=28%|
-|18|Middleware|Conference on middleware|Rennes, France|18年5月11日/18年12月10日|"2017年录取率"：|
-|19|SANER 2018|International Conference on Software Analysis, Evolution, and Reengineering|University of Molise in Campobasso, Ital|17年10月27日/18年1月15日|“2018年录用率”：/=%|
-|20|HotOS 2017|USENIX Workshop on Hot Topics in Operating Systems|Whistler, BC|17年1月15日/17年5月7日|“2017年录用率”：/=%|
-|21|ESEM 2018|International Symposium on Empirical Software Engineering and Measurement|University of Molise in Campobasso, Ital|18年5月18日/18年10月11日|“2018年录用率”：/=%|
+|18|Middleware|Conference on middleware|UC Davis, CA, USA|19年5月17日/19年12月9日|"2017年录取率"：|
+|19|SANER 2019|International Conference on Software Analysis, Evolution, and Reengineering|Zhejiang University in Hangzhou, china|18年10月19日/19年2月24日|“2018年录用率”：/=%|
+|20|HotOS 2019|USENIX Workshop on Hot Topics in Operating Systems|Bertinoro, Italy|19年1月17日/19年5月12日|“2017年录用率”：/=%|
+|21|ESEM 2019|International Symposium on Empirical Software Engineering and Measurement|Porto de Galinhas, BR|19年4月25日/19年9月16日|“2018年录用率”：/=%|
 
 ### 3. 计算机体系结构/并行与分布计算/存储系统  
 3.1 A类
@@ -141,9 +141,10 @@
 |5|ICNP'2019|Internet Measurement Conference|Chicago, USA|19年5月24日/19年10月7日|“2017年录用率”：39/209=18.7%|
 |6|MobiHoc'2019|International Symposium on Mobile Ad Hoc Networking and Computing|Catania, Italy|18年12月21日/19年7月2日|“2017年录用率”：30/178=16.9%|
 |7|MobiSys'2019|International Conference on Mobile Systems,Applications,and Services|Seoul, South Korea|18年12月14日/19年6月17日|“2017年录用率”：37/138=26.8%|
-|8|IWQos'2019|International Workshop on Quality of Service|Phoenix, USA|19年2月20日/19年6月24日|“2018年录用率”：26/125=20.8%|
+|8|IWQos'2019|International Workshop on Quality of Service|Phoenix, USA
+|19年2月20日/19年6月24日|“2018年录用率”：26/125=20.8%|
 |9|IMC'2019|International Conference on Network Protocols|Amsterdam, The Netherlands|19年5月26日/19年10月21日|“2018年录用率”：43/174=24.7%|
-|10|NOSSDAV'2019|International Workshop on Network and Operating System Support for Digital Audio and Video|Amherst, MA, USA|19年2月24日/19年6月21日|“2012年录用率”：17/47=36.2%|
+|10|NOSSDAV'2019|International Workshop on Network and Operating System Support for Digital Audio and Video|Amherst, MA, USA|19年2月24日/19年6月21日|“2018年录用率”：12/???=???%   “2012年录用率”：17/47=36.2%|
 
 ### 5. 计算机科学理论   
 1.1 A类
