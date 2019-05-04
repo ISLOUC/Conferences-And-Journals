@@ -1,7 +1,7 @@
 ### 会议信息   
 
 ###### 格式：      会议名’年份； 地点；时间：截稿日/召开日；“X年录用率”：录用数/投稿数=录用率；    
----   
+---
 ### 1. 网络与信息安全  
 1.1 A类  
 
@@ -26,9 +26,9 @@
 |5|NDSS'2019|ISOC Network and Distributed System Security Symposium| California,USA| 18年8月7日/19年2月24日|“2018”：71/443=16%|
 |6|CSFW'2018|IEEE Computer Security Foundations Workshop|Oxford,UK|18年1月31日/18年7月9日|“2018”：25/143=17.5%|
 |7|RAID'2018|International Symposium on Recnt Advances in Intrusion Detection|Heraklion,Crete,Greece|18年4月3日/18年11月10日|“2017”：25/？=？|
-|8|PKC'2018| International Conference on Practice and Theory of Public Key Cryptography | Rio de Janeiro, Brazil |Dec 22, 2017/Mar 25,2018|“2018”：49/186=26.3%| 
-|9|DNS'2018| International Conference on Dependable Systems and Networks | Luxembourg City, Luxembourg | Dec 4, 2017/ Jun 25, 2018 |“2018”：62/?=?| 
-|10|TCC'2017| Theory of Cryptography Conference | Baltimore, Maryland, USA | May 24, 2017/Aug 30, 2017 |“2017”：51/150=34%| 
+|8|PKC'2018| International Conference on Practice and Theory of Public Key Cryptography | Rio de Janeiro, Brazil |Dec 22, 2017/Mar 25,2018|“2018”：49/186=26.3%|
+|9|DNS'2018| International Conference on Dependable Systems and Networks | Luxembourg City, Luxembourg | Dec 4, 2017/ Jun 25, 2018 |“2018”：62/?=?|
+|10|TCC'2017| Theory of Cryptography Conference | Baltimore, Maryland, USA | May 24, 2017/Aug 30, 2017 |“2017”：51/150=34%|
 |11|SRDS 2018|37th IEEE International Symposium on Reliable Distributed Systems | Salvador-brazil |2018年4月29日/18年10月2日|“2017”：33/？=？|
 |12|CHES 2018| Conference on Cryptographic Hardware and Embedded Systems | Amsterdam, The Netherlands  |2018年4月15日/18年9月9日|“2017”：33/130=25.4%|
 
@@ -72,7 +72,7 @@
 |19|SANER 2018|International Conference on Software Analysis, Evolution, and Reengineering|University of Molise in Campobasso, Ital|17年10月27日/18年1月15日|“2018年录用率”：/=%|
 |20|HotOS 2017|USENIX Workshop on Hot Topics in Operating Systems|Whistler, BC|17年1月15日/17年5月7日|“2017年录用率”：/=%|
 |21|ESEM 2018|International Symposium on Empirical Software Engineering and Measurement|University of Molise in Campobasso, Ital|18年5月18日/18年10月11日|“2018年录用率”：/=%|
-   
+
 ### 3. 计算机体系结构/并行与分布计算/存储系统  
 3.1 A类
 
@@ -125,25 +125,27 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|1|MOBICOM'2018|International Conference on Mobile Computing and Networking|New Delhi, India|18年3月6日/19年10月29日|“2016年录用率”：32/212=15.1%|
-|2|SIGCOMM'2018|Annual Conference of the ACM Special Interest Group on Data Communication|Budapest, Hungary|18年1月24日/18年8月20日|“2016年录用率”：39/231=17%|
-|3|Infocom'2019|IEEE International Conference on Computer Communications|Paris,France|18年7月31日/19年4月29日|“2018年录用率”：309/1606=19.2%|
+|1|MOBICOM'2019|International Conference on Mobile Computing and Networking|Los Cabos, Mexico|19年3月18日/19年10月21日|“2016年录用率”：32/212=15.1%|
+|2|SIGCOMM'2019|Annual Conference of the ACM Special Interest Group on Data Communication|Beijing, China|19年1月31日/19年8月19日|“2016年录用率”：39/231=17%|
+|3|Infocom'2020|IEEE International Conference on Computer Communications|Beijing, China|19年7月29日/20年4月27日|“2018年录用率”：309/1606=19.2%|
+|4|NSDI'2020|Symposium on Networked Systems Design and Implementation|Santa Clara, USA|19年3月19日/20年2月25日|“2018年录用率”：40/259=15.4%|
 
 1.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|1|SenSys'2018|ACM Conference on Embedded Networked Sensor Systems|Shenzhen,China|18年4月8日/18年11月4日|“2017年录用率”：26/151=17.2%|
-|2|CoNEXT'2018|ACM International Conference on emerging Networking EXperiments and Technologies|Heraklion/Crete,Greece|18年6月23日/18年12月4日|“2017年录用率”：33(+7 short)/171(+51 short)=19.2%(13.7% short)|
-|3|SECON'2019|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks|KINTEX, Seoul, Korea|?年?月?日/19年3月6日|“2018年录用率”：49/211=23.2%|
-|4|IPSN'2019|International Conference on Information Processing in Sensor Networks|PORTO, PORTUGAL|18年10月17日/19年4月16日|“2018年录用率”：22/82=26.8%|
-|5|ICNP'2018|Internet Measurement Conference|Cambridge, UK|18年5月21日/18年9月24日|“2017年录用率”：39/209=18.7%|
-|6|MobiHoc'2018|International Symposium on Mobile Ad Hoc Networking and Computing|Los Angeles, California, US|18年12月15日/18年6月26日|“2017年录用率”：30/178=16.9%|
-|7|MobiSys'2018|International Conference on Mobile Systems,Applications,and Services|Munich, Germany|17年12月8日/18年6月10日|“2017年录用率”：37/138=26.8%|
-|8|IWQos'2018|International Workshop on Quality of Service|Banff, Alberta, Canada|17年2月22日/18年6月4日|“2018年录用率”：26/125=20.8%|
-|9|IMC'2018|International Conference on Network Protocols|Boston, MA, USA|18年5月26日/18年10月31日|“2018年录用率”：43/174=24.7%|
-|10|NOSSDAV'2018|International Workshop on Network and Operating System Support for Digital Audio and Video|Amsterdam, Netherlands|18年4月20日/18年6月12日|“2018年录用率”：12/???=???%   “2012年录用率”：17/47=36.2%|
-|11|NSDI'2019|Networked Systems Design and Implementation|Boston, Massachusetts|18年9月13日/19年2月26日|“2018年录用率”：40/259=15.4%|
+|1|SenSys'2019|ACM Conference on Embedded Networked Sensor Systems|New York, USA|19年4月12日/19年11月10日|“2017年录用率”：26/151=17.2%|
+|2|CoNEXT'2019|ACM International Conference on emerging Networking EXperiments and Technologies|Orlando, USA|19年6月19日/19年12月9日|“2017年录用率”：33(+7 short)/171(+51 short)=19.2%(13.7% short)|
+|3|SECON'2019|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks|KINTEX, Seoul, Korea|19年1月18日/19年6月10日|“2019年录用率”：54/189=28.6%|
+|4|IPSN'2019|International Conference on Information Processing in Sensor Networks|PORTO, PORTUGAL|18年10月17日/19年4月16日|“2019年录用率”：25/91=27.5%|
+|5|ICNP'2019|Internet Measurement Conference|Chicago, USA|19年5月24日/18年10月7日|“2017年录用率”：39/209=18.7%|
+|6|MobiHoc'2019|International Symposium on Mobile Ad Hoc Networking and Computing|Catania, Italy|18年12月21日/19年7月2日|“2017年录用率”：30/178=16.9%|
+|7|MobiSys'2019|International Conference on Mobile Systems,Applications,and Services|Seoul, South Korea|18年12月14日/19年6月17日|“2017年录用率”：37/138=26.8%|
+|8|IWQos'2019|International Workshop on Quality of Service|Phoenix, USA
+|19年2月20日/19年6月24日|“2018年录用率”：26/125=20.8%|
+|9|IMC'2019|International Conference on Network Protocols|Amsterdam, The Netherlands|19年5月26日/19年10月21日|“2018年录用率”：43/174=24.7%|
+|10|NOSSDAV'2019|International Workshop on Network and Operating System Support for Digital Audio and Video|Amherst, MA, USA|19年2月24日/19年6月21日|“2018年录用率”：12/???=???%   “2012年录用率”：17/47=36.2%|
+
 ### 5. 计算机科学理论   
 1.1 A类
 
