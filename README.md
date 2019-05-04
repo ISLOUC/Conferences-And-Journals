@@ -141,10 +141,9 @@
 |5|ICNP'2019|Internet Measurement Conference|Chicago, USA|19年5月24日/19年10月7日|“2017年录用率”：39/209=18.7%|
 |6|MobiHoc'2019|International Symposium on Mobile Ad Hoc Networking and Computing|Catania, Italy|18年12月21日/19年7月2日|“2017年录用率”：30/178=16.9%|
 |7|MobiSys'2019|International Conference on Mobile Systems,Applications,and Services|Seoul, South Korea|18年12月14日/19年6月17日|“2017年录用率”：37/138=26.8%|
-|8|IWQos'2019|International Workshop on Quality of Service|Phoenix, USA
-|19年2月20日/19年6月24日|“2018年录用率”：26/125=20.8%|
+|8|IWQos'2019|International Workshop on Quality of Service|Phoenix, USA|19年2月20日/19年6月24日|“2018年录用率”：26/125=20.8%|
 |9|IMC'2019|International Conference on Network Protocols|Amsterdam, The Netherlands|19年5月26日/19年10月21日|“2018年录用率”：43/174=24.7%|
-|10|NOSSDAV'2019|International Workshop on Network and Operating System Support for Digital Audio and Video|Amherst, MA, USA|19年2月24日/19年6月21日|“2018年录用率”：12/???=???%   “2012年录用率”：17/47=36.2%|
+|10|NOSSDAV'2019|International Workshop on Network and Operating System Support for Digital Audio and Video|Amherst, MA, USA|19年2月24日/19年6月21日|“2012年录用率”：17/47=36.2%|
 
 ### 5. 计算机科学理论   
 1.1 A类
