@@ -138,7 +138,7 @@
 |2|CoNEXT'2019|ACM International Conference on emerging Networking EXperiments and Technologies|Orlando, USA|19年6月19日/19年12月9日|“2017年录用率”：33(+7 short)/171(+51 short)=19.2%(13.7% short)|
 |3|SECON'2019|IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks|KINTEX, Seoul, Korea|19年1月18日/19年6月10日|“2019年录用率”：54/189=28.6%|
 |4|IPSN'2019|International Conference on Information Processing in Sensor Networks|PORTO, PORTUGAL|18年10月17日/19年4月16日|“2019年录用率”：25/91=27.5%|
-|5|ICNP'2019|Internet Measurement Conference|Chicago, USA|19年5月24日/18年10月7日|“2017年录用率”：39/209=18.7%|
+|5|ICNP'2019|Internet Measurement Conference|Chicago, USA|19年5月24日/19年10月7日|“2017年录用率”：39/209=18.7%|
 |6|MobiHoc'2019|International Symposium on Mobile Ad Hoc Networking and Computing|Catania, Italy|18年12月21日/19年7月2日|“2017年录用率”：30/178=16.9%|
 |7|MobiSys'2019|International Conference on Mobile Systems,Applications,and Services|Seoul, South Korea|18年12月14日/19年6月17日|“2017年录用率”：37/138=26.8%|
 |8|IWQos'2019|International Workshop on Quality of Service|Phoenix, USA
