@@ -15,15 +15,15 @@
 |8|CT-RSA'2019| Cryptographers Track RSA Conference | Luxembourg City, Luxembourg | 2018年9月14日/ 2019年3月4日 |“2019”：|
 |9|DIMVA'2019| Detection of Intrusions and Malware & Vulnerability Assessment|Gothenburg | 2019年2月22日/ 2019年6月19日 |“2019”：|“2019”：|
 |10|TrustCom'2019| IEEE International Conference on Trust, Security and Privacy in Computing and Communications  | Rotorua, New Zealand  |2018年2月8日/2019年8月5日|“2019”：|
-|11|FC'2019| Financial Cryptography | St. Kitts|2018年9月21日/2019年2月19日|“2019”：|
+|11|FC'2019| Financial Cryptographyand Data Security | St. Kitts|2018年9月21日/2019年2月19日|“2019”：|
 |12|TrustCom’2019| IEEE International Conference on Trust, Security and Privacy in Computing and Communications | Rotorua, New Zealand  | 2019年3月17日/ 2019年8月5日|“2019”：|
 |13|SEC’2019| IFIP International Information Security Conference |  | |“2019”：|
 |14|IFIP W G 11.9’2019| IFIP WG 11.9 International Conference on Digital Forensics | Florida, USA|/2019年1月28日 |“2019”：|
 |15|ISC’2019| Information Security Conference  |New York| 2019年4月5日/2019年9月16日|“2019”：|
-|16|IDCF2C’2019|International Conference on Cyber Attacks Response and Defense (formerly ICDF2C) |Milan, Italy |2019年4月14日/2019年9月16日 |“2019”：|
+|16|IDCF2C’2019|International Conference on Digital Forensics and Cyber Crime |Milan, Italy |2019年4月14日/2019年9月16日 |“2019”：|
 |17|ICICS’2019| International Conference on Information and Communication Security  | Jordan |2019年 3月1 日/2019年4月25 日|“2019”：|2019年4月25 日
-|18|securecom’2019|International Conference on Security and Privacy in Communication Networks  | Orlando, United States |2019年4月30日 /2019年10月23日|“2019”：|
-|19|NSPW’2019|Workshop on New Security Paradigms  | San Carlos, Costa Rica |2019年4月12日/2019年9月23日 |“2019”：|
+|18|SecureComm’2019|International Conference on Security and Privacy in Communication Networks  | Orlando, United States |2019年4月30日 /2019年10月23日|“2019”：|
+|19|NSPW’2019|New Security Paradigms Workshop | San Carlos, Costa Rica |2019年4月12日/2019年9月23日 |“2019”：|
 |20|PAM’2019|Passive and Active (Network) Measurement | Puerto Varas, Chile | 2018年10月17日/2019年3月27日|“2019”：|
 |21|PETS’2020|Privacy Enhancing Technologies | Montreal, Canada |2020-02-29/2020-07-15|“2019”：|
 |22|SAC’2019| Selected Areas in Cryptography  |University of Waterloo  | ？？/2019年8月12日|“2019”：|
