@@ -48,8 +48,6 @@
 |5|OOPSLA’2019|conference on Systems, Programming, Languages, and Applications  |Athens，Greece | 2019年6月5日/2019年10月20日|“2019”：|
 |6|ASE’2019|Automated Software Engineering |San Diego, California, United States  |2019年5月13日 /2019年11月11日|“2019”：|
 
-
-
 2.2 B类
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
