@@ -41,14 +41,12 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|1|FSE/ESEC 2018| The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering | Lake Buena Vista, Florida |2018年3月9日/18年11月4日|“2017”：|
-|2|OOPSLA 2019| Conference on Object-Oriented Programming Systems, Languages, and Applications | Athens, Greece| 2019年4月5日/2019年4月25日|“2009年录用率”：25/144=17%|
-|3|ICSE 2018|International Conference on Software Engineering| Gothenburg, Sweden|2017年10月10日/2018年3月27日|“2009年录用率”：50/405=12%|
-|4|OSDI 2018| USENIX Symposium on Operating Systems Design and Implementations |Carlsbad, CA, USA|2018年9月17日/2018年10月8日|“2008年录用率”：26/193=13.5%|
-|5|PLDI 2019|ACM SIGPLAN Symposium on Programming Language Design & Implementation|Phoenix Arizona, United States|18年11月16日/19年6月24日|“2009年录用率”：41/196=20.9%|
-|6|POPL 2019|ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages|Lisbon, Portugal|18年7月11日/19年1月6日|“2009年录用率”：36/160=22.5%|
-|7|SOSP 2017|ACM Symposium on Operating Systems Principles|Shanghai|17年4月21日/17年10月29日|“2011年录用率”：28/157=17.8%|
-|8|ASE|International Conference on Automated Software Engineering|Montpellier, France|18年4月26日/18年9月3日|“2018年录用率”：80/383=20.9%|
+|1|PLDI’2019|ACM SIGPLAN Symposium on Programming Language Design & Implementation | Phoenix, Arizona, United States | 2018年11月16日/2019年6月22日|“2019”：|
+|2|POPL’2020|ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages | New Orleans, Louisiana, United States | 2019年7月10日/ 2020年1月25日|“2019”：|
+|3|SIGSOFT FSE’2019|European Software Engineering Conference/ACM SIGSOFT Symposium on the Foundations of Software Engineering |Tallinn, Estonia | 2019年2月20日/2019年8月26日|“2019”：|
+|4|SOSP’2019|ACM Symposium on Operating Systems Principles| Deerhurst Resort, Huntsville, Ontario, Canada | 2019年4月24日/2019年10月28日|“2019”：|
+|5|OOPSLA’2019|Conference on Object-Oriented Programming Systems, Languages, and Applications|Athens，Greece | 2019年6月5日/2019年10月20日|“2019”：|
+|6|ASE’2019|International Conference on Automated Software Engineering |San Diego, California, United States  |2019年5月13日 /2019年11月11日|“2019”：|
 
 2.2 B类
 
