@@ -7,11 +7,11 @@
 
 |序号| 会议名'年份 | 地点          | 时间：截稿日/召开日        | “X年录用率”：录用数/投稿数=录用率        |
 | ------------- | ----------- |----------- |----------- |----------- |
-|1| CCS'2018 | Toronto,CA     | 18年5月9日/18年10月15日     |“2017”：151/846=17.8%     |
-|2| CRYPTO 2018 | Santa Barbara,CA,US    | 18年2月13日/18年8月19日     |“2015”：74/266=27.8%     |
-|3| Eurocrypt 2018 | Toronto,CA     | 18年10月4日/19年5月19日     |“2014”：38/197=19.3%     |
-|4| S&P‘2019     | San Francisco, US|18年9月1日/19年5月20日|“2017”：48/244=19.7%|
-|5| USENIX Security | Baltimore, Maryland, USA|18年2月8日/18年8月15日|“2018”：100/524=19.1%|
+|1| CCS'2019 | London, UK | 19年5月15日/19年11月11日 |“2017”：151/843=17.9%     |
+|2| CRYPTO'2018 | Santa Barbara,CA,US    | 18年2月13日/18年8月19日     |“2015”：74/266=27.8%     |
+|3| Eurocrypt'2018 | Toronto,CA | 18年10月4日/19年5月19日     |“2014”：38/197=19.3%     |
+|4| S&P'2020 | San Francisco, California, USA |19年2月1日/20年5月18日|“2018”：63/549=11.5%|
+|5| USENIX Security'2020 | Boston, Massachusetts, USA |20年2月15日/20年8月12日|“2018”：100/524=19.1%|
 
 
 
@@ -19,7 +19,7 @@
 
 | 序号 | 会议名'年份 |会议全名| 地点          | 时间：截稿日/召开日        | “X年录用率”：录用数/投稿数=录用率        |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|1|ACSAC'2018|Annual Computer Security Applications Conference| San Juan,Puerto Rico,USA| 18年6月15日/18年12月3日|“2017”：48/244=19.7%|
+|1|ACSAC'2019|Annual Computer Security Applications Conference|San Juan, Puerto Rico, USA|19年6月8日/19年12月9日|“2017”：48/244=19.7%|
 |2|ASIACRYPT'2018|International Conference on The Theory and Application of Cryptology and Information Security| Brisbane, Australia| 18年5月11日/18年12月2日|“2014”：55/255=21.6%|
 |3|ESORICS'2018|EuropeanSymposiumonResearchinComputerSecurity| Barcelona, Spain| 18年4月18日/18年9月3日|“2018”：|
 |4|FSE'2019|Fast Software Encryption|Paris, France| 18年2月2日&5月13日&8月2日/19年3月25日|“2018”：|
