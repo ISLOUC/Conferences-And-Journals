@@ -6,3 +6,16 @@
 |4| LCN'2019 |IEEE Conference on Local Computer Networks|Osnabrück, Germany|19年5月3日/19年10月14日|“2018”：45/161=28% |
 |5| Globecom'2019|IEEE Global Communications Conference, incorporating the Global Internet Symposium|Abu Dhabi, UAE| 19年5月1日/19年12月9日 |“2013”：841/2272=37% |
 |6| ICC'2019|IEEE International Conference on Communications|Shanghai, China|18年11月14日/19年5月20日|“2019”：1010/2590=39% |
+|7| ICCCN'2019 |IEEE International Conference on Computer Communications and Networks|Valencia, Spain|19年3月5日/19年7月29日|“2011”：452/134=29.6%|
+|8| MASS'2018 |IEEE International Conference on Mobile Ad-hoc and Sensor Systems|Chengdu, China|18年4月15日/18年10月9日|“2014”：181/48=26.5%|
+|9| P2P'2015 |IEEE International Conference on Peer-to-Peer Computing|Boston, MA, USA|2015年5月11日/15年9月21日|“2013”：94/18=19.1%|
+|10| IPCCC'2019 |IEEE International Performance Computing and Communications Conference|London, UK|19年6月21日/19年10月29日|“2013”：129/35=27.1%|
+|11| WoWMoM'2019 |IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks|Washington DC, USA||“2016”：123/33=26.8%|
+|12| ISCC'2019|IEEE Symposium on Computers and Communications|Barcelona, Spain|19年3月1日/19年6月29日|“2014”：338/157=46.4%|
+|13| WCNC'2019|IEEE Wireless Communications & Networking Conference|Marrakech, Morocco|18年9月25日/19年4月15日|“2016”：964/467=48.4%|
+|14| Networking'2019|IFIP International Conferences on Networking|Warsaw, Poland|18年12月16日/19年5月20日|“2018”：225/63=28%|
+|15| IM'2019 |IFIP/IEEE International Symposium on Integrated Network Management|Washington DC, USA|18年8月19日/19年4月8日|“2017”：154/44=28.6%|
+|16| MSWiM'2019 |International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems|Miami, Florida, USA|19年5月15日/19年11月25日|“2018”：113/31=27.4%|
+|17| WASA'2019 |International Conference on Wireless Algorithms, Systems, and Applications|Hawaii, USA|19年3月5日/19年6月24日|“20”：/=%|
+|18| HotNets'2018 |The Workshop on Hot Topics in Networks|Redmond, Washington, USA|18年7月13日/18年11月13日|“20”：/=%|
+|19| MSN'2018 |International Conference on Mobile Ad-hoc and Sensor Networks|Shenyang, China|18年10月8日/18年12月6日|“20”：/=%|
