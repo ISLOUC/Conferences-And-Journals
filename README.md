@@ -41,12 +41,12 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|1|PLDI’2019|  SIGPLAN Conference on Programming Language Design and Implementation | Phoenix, Arizona, United States | 2018年11月16日/2019年6月22日|“2019”：|
-|2|POPL’2020|  Symposium on Principles of Programming Languages |   New Orleans, Louisiana, United States | 2019年7月10日/ 2020年1月25日|“2019”：|
+|1|PLDI’2019|ACM SIGPLAN Symposium on Programming Language Design & Implementation | Phoenix, Arizona, United States | 2018年11月16日/2019年6月22日|“2019”：|
+|2|POPL’2020|ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages | New Orleans, Louisiana, United States | 2019年7月10日/ 2020年1月25日|“2019”：|
 |3|SIGSOFT FSE’2019|European Software Engineering Conference/ACM SIGSOFT Symposium on the Foundations of Software Engineering |Tallinn, Estonia | 2019年2月20日/2019年8月26日|“2019”：|
-|4|SOSP’2019|Symposium on Operating Systems Principles | Deerhurst Resort, Huntsville, Ontario, Canada | 2019年4月24日/2019年10月28日|“2019”：|
-|5|OOPSLA’2019|conference on Systems, Programming, Languages, and Applications  |Athens，Greece | 2019年6月5日/2019年10月20日|“2019”：|
-|6|ASE’2019|Automated Software Engineering |San Diego, California, United States  |2019年5月13日 /2019年11月11日|“2019”：|
+|4|SOSP’2019|ACM Symposium on Operating Systems Principles| Deerhurst Resort, Huntsville, Ontario, Canada | 2019年4月24日/2019年10月28日|“2019”：|
+|5|OOPSLA’2019|Conference on Object-Oriented Programming Systems, Languages, and Applications|Athens，Greece | 2019年6月5日/2019年10月20日|“2019”：|
+|6|ASE’2019|International Conference on Automated Software Engineering |San Diego, California, United States  |2019年5月13日 /2019年11月11日|“2019”：|
 
 2.2 B类
 
