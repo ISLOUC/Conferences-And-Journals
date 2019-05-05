@@ -47,6 +47,9 @@
 |4|SOSP’2019|ACM Symposium on Operating Systems Principles| Deerhurst Resort, Huntsville, Ontario, Canada | 2019年4月24日/2019年10月28日|“2019”：|
 |5|OOPSLA’2019|Conference on Object-Oriented Programming Systems, Languages, and Applications|Athens，Greece | 2019年6月5日/2019年10月20日|“2019”：|
 |6|ASE’2019|International Conference on Automated Software Engineering |San Diego, California, United States  |2019年5月13日 /2019年11月11日|“2019”：|
+|7|ICSE’2019|International Conference on Software Engineering ACM/IEEE |Montreal, Canada |2018年8月24日 /2019年5月25日|“2019”：|
+|8|ISSTA’2019|International Symposium on Software Testing and Analysis |Beijing, China |2019年1月28日 /2019年7月15日|“2019”：|
+|9|OSDI’2019|Operating Systems Design and Implementation | , |2020年 月 日 /2020年 月 日|“2020”：|
 
 2.2 B类
 
