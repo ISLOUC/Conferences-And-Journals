@@ -55,20 +55,23 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|1|ECOOP|European Conference on Object-Oriented Programming|Amsterdam, The Netherlands|18年1月12日/18年7月16日|“2018”年录用率：26/？=39.4%|
-|2|ETAPS|European Joint Conferences on Theory and Practice of Software|Thessaloniki, Greece|17年10月13日/18年4月14日|“2018”年录用率：144/479=30%|
-|3|FM 2018|International Symposium on Formal Methods|Oxford, UK|18年01月08日/18年07月15日|“2018”年录用率：35/？=%|
-|4|ICPC 2018|International Conference on Program Comprehension |Gothenburg, Sweden|18年01月18日/18年05月27日|“2018”年录用率：44/？=%|
-|5|RE 2018|	International Requirements Engineering Conference |Banff, Alberta, Canada|18年02月16日/18年08月20日|“2018”年录用率：67/？=%|
-|9|MoDELS 2018|International Conference on Model Driven Engineering Languages and Systems|Copenhagen, Denmark|18年7月27日/18年10月14日|“2017年录用率”：46/172=26.7%|
-|10|CP 2018|International Conference on Principles and Practice of Constraint Programming|Lille, France|18年4月21日/18年8月27日|“2018年录用率”：50/114=43.9%|
-|11|ICSOC 2018|International Conference on Service Oriented Computing|Hangzhou, Zhejiang, China|18年5月28日/18年11月12日|“2017年录用率”：57/179=31.8%|
-|12|ICSME 2018|International Conference on Software Maintenance and Evolution|18年Madrid, Spain/19年Cleveland, Ohio, USA|18年3月30日/18年9月23日|“2018年录用率”：45/=%|
-|13|VMCAI 2018|International Conference on Verification, Model Checking, and Abstract Interpretation|Los Angeles, CA, USA|18年10月4日/18年1月7日|“2018年录用率”：24/43=55.8%|
-|14|ICWS 2018|International Conference on Web Services （Research Track）|Seattle, WA, USA|18年3月31日/18年6月25日|“2018年录用率”：32/116=27.6%|
-|15|SAS 2018|International Static Analysis Symposium|Freiburg, Germany|18年3月31日/18年8月29日|"2017年录取率"：|
-|16|ISSRE 2017|International Symposium on Software Reliability Engineering|Toulouse, France|17年5月12日/17年10月23日|"2017年录取率"：|
-|17|ISSTA 2018|International Symposium on Software Testing and Analysis|Amsterdam, The Netherlands|18年1月29日/18年7月16日|"2014年录取率"：36/128=28%|
+|1|ECOOP 2019|European Conference on Object-Oriented Programming|London, United Kingdom|19年1月11日/19年7月15日|“2019”年录用率：|
+|2|ETAPS 2019|European Joint Conferences on Theory and Practice of Software|Prague, Czech Republic|19年3月11日/19年4月6日|“2019”年录用率：|
+|3|ICPC 2019|International Conference on Program Comprehension|Montreal, Canada|18年11月02日/19年05月25日|“2019”年录用率：|
+|4|RE 2019|Requirements Engineering |Jeju Island, Korea|19年04月1日/19年09月23日|“2019”年录用率：|
+|5|CAiSE 2019|Conference on Advanced Information Systems Engineering |Rome, Italy|18年11月30日/19年06月03日|“2019”年录用率：|
+|6|ICFP 2019|ACM SIGPLAN International Conference on Functional Programming |Berlin, Germany|19年04月09日/19年08月18日|“2019”年录用率：|
+|7|LCTES 2019|Languages, Compilers, and Tools for Embedded Systems |Phoenix, Arizona, USA|19年03月08日/19年06月22日|“2019”年录用率：|
+|8|MoDELS 2019|Model Driven Engineering Languages and Systems |Munich, Germany|19年04月29日/19年09月15日|“2019”年录用率：|
+|9|CP 2019|Principles and Practice of Constraint Programming|Stamford, Connecticut, USA |19年01月15日/19年09月30日|“2019年录用率”：|
+|10|ICSOC 2019|International Conference on Service Oriented Computing|Toulouse, France|19年5月17日/19年10月28日|“2019年录用率”：|
+|11|SANER 2019|Software Analysis, Evolution and Reengineering|Hangzhou, Zhejiang, China|18年10月19日/19年02月24日|“2019年录用率”：|
+|12|ICSME 2019|International Conference on Software Maintenance and Evolution|Cleveland, Ohio, USA|19年3月29日/18年9月30日|“2019年录用率”：|
+|13|VMCAI 2019|International Conference on Verification, Model Checking, and Abstract Interpretation|Cascais/Lisbon, Portugal|18年10月1日/19年1月13日|“2019年录用率”：|
+|14|ICWS 2019|International Conference on Web Services （Research Track）|San Diego, USA|19年01月06日/19年06月25日|“2019年录用率”：|
+|15|Middleware 2019|International Middleware Conference/ICODP|UC Davis, USA|19年05月10日/19年12月09日|"2019年录取率"：|
+|16|SAS 2019| Static Analysis|Porto, Portugal|19年4月22日/19年10月09日|"2019年录取率"：|
+|17|ESEM 2019|Empirical Software Engineering and Measurement|Porto de Galinhas, Brazil|19年04月18日/19年9月19日|"2019年录取率"：|
 |18|FM 2019|International Symposium on Formal Methods|Porto, Portugal|19年4月30日/19年10月7日|"2017年录取率"：|
 |19|ISSRE 2019|International Symposium on Software Reliability Engineering|Berlin, 德国 |19年4月28日/19年10月28日|“2018年录用率”：/=%|
 |20|HotOS 2019|USENIX Workshop on Hot Topics in Operating Systems|Bertinoro, Italy|19年1月17日/19年5月12日|“2017年录用率”：/=%|
