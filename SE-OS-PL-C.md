@@ -11,8 +11,8 @@
 |9|SCAM 2019|IEEE International Working Conference on Source Code Analysis and Manipulation|Cleveland, OH, USA|19年6月17日/19年9月30日||
 |10|COMPSAC 2019| International Computer Software and Applications Conference|Marquette University, Milwaukee, Wisconsin, USA|19年2月14日/19年7月15日||
 |11|ICFEM 2019|International Conference on Formal Engineering Methods|Shenzhen, China|19年5月21日/19年11月5日||
-|12|TOOLS 2019| | | ||
-|13|QSIC 2019| | | ||
+|12|TOOLS 2019|Technology of Object-Oriented Languages and Systems |Innopolis (Kazan), Russia|19年4月19日/19年10月14日||
+|13|QSIC 2019|International Conference on Quality Software| | ||
 |14|SCC 2019|IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING|MILAN, ITALY|18年12月1日/19年7月8日| |
 |15|ICSSP 2019|International Conference on Software and System Processes|Montreal, Canada|19年2月1日/19年5月25日||
 |16|SEKE 2019|International Conference on Software Engineering and Knowledge Engineering|Lisbon, Portugal|19年3月1日/19年6月28日||
