@@ -91,31 +91,31 @@
 
 | 序号 | 会议名'年份 | 会议全名|地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | ----------- | ---| -------------- | ----------------------- | --------------------------------- |
-|1|Hot Chips'2019|Hot Chips:Symposium on High Performance Chips|Stanford, Palo Alto, CA, USA|19年7月16日/19年8月18日|“2018年录用率”：/=|
+|1|Hot Chips'2019|Hot Chips:Symposium on High Performance Chips|Stanford, Palo Alto, CA, USA|19年7月16日/19年8月18日|“2019年录用率”：/=|
 |2|SPAA'2019|ACM Symposium on Parallelism in Algorithms and Architectures|Phoenix, Arizona, USA|19年1月8日/19年6月22日|“2018年录用率”：36/120=30%|
 |3|PODC'2019|ACM Symposium on Principles of Distributed Computing|Toronto, Canada|19年2月18日/19年7月29日|“2018年录用率”：41/163=25.15%|
-|4|CGO'2018|Code Generation and Optimization|Vienna, Austria|17年9月8日/18年2月24日|“2018年录用率”：30/105=28.57%|
+|4|CGO'2019|Code Generation and Optimization|Washington DC, USA|18年8月31日/19年2月16日|“2018年录用率”：30/105=28.57%|
 |5|DAC'2018|Design Automation Conference|San Francisco, California, USA|17年11月14日/18年6月24日|“2018年录用率”：178/?=?%|
 |6|DATE'2019|Design, Automation and Test in Europe|Florence, Italy|2018年09月10日/2019年03月25日|“2018年录用率”：/=%|
-|7|EuroSys'2018|European Conference on Computer Systems|Porto, Portugal|2017年10月20日/2018年04月23日|“2018年录用率”：27/147=18.4%|
+|7|EuroSys'2019|European Conference on Computer Systems|Dresden, Germany|2018年9月24日/2019年03月25日|“2018年录用率”：27/147=18.4%|
 |8|HPDC'2019|International ACM Symposium on High-Performance Parallel and Distributed Computing|Phoenix, Arizona, USA|2019年1月16日/2019年06月22日|“2018年录用率”：19/116=16.4%|
 |9|ICCD'2019|International Conference on Computer Design|New York University–Abu Dhabi Campus,U.A.E|2019年6月28日/2019年11月17日|“2019年录用率”：/=%|
 |10|ICCAD'2019|International Conference on Computer-Aided Design|Westminster, Colorado, USA|19年4月8日/19年11月4日|“2018年录用率”：98/538=18.2%|
-|11|ICDCS'2018|International Conference on Distributed Computing Systems|Dallas, Texas, USA|19年1月12日/19年7月7日|“2018年录用率”：78/378=20.6%|
+|11|ICDCS'2019|International Conference on Distributed Computing Systems|Dallas, Texas, USA|19年1月12日/19年7月7日|“2018年录用率”：78/378=20.6%|
 |12|HiPEAC'2019|International Conference on High Performance and Embedded Architectures and Compilers|Bologna, Italy|19年6月1日/20年1月20日|“2019年录用率”：/=|
 |13|SIGMETRICS'2019|International Conference on Measurement and Modeling of Computer Systems|Phoenix, Arizona, USA|19年2月11日/19年6月23日|“2018年录用率”：54/?=?%|
-|14|ICPP'2019|International Conference on Parallel Processing|Kyoto, Japan|19年4月15日/19年8月5日|“2018年录用率”：/=|
-|15|ICS'2019|International Conference on Supercomputing|Phoenix, Arizona, USA|19年1月15日/18年6月26日|“2018年录用率”：/=|
+|14|ICPP'2019|International Conference on Parallel Processing|Kyoto, Japan|19年4月15日/19年8月5日|“2019年录用率”：/=|
+|15|ICS'2019|International Conference on Supercomputing|Phoenix, Arizona, USA|19年1月15日/19年6月26日|“2019年录用率”：/=|
 |16|IPDPS'2019|International Parallel & Distributed Processing Symposium|Rio de Janeiro, Brazil|18年10月8日/19年5月20日|“2018年录用率”：113/461=24.5%|
-|17|FPGA‘2018|ACM/SIGDA International Symposium on Field-Programmable Gate Arrays|Monterey, CA, USA|17年9月17日/18年2月25日|“2018年录用率”：/=|
-|18|Performance'2018|International Symposium on Computer Performance, Modeling, Measurements and Evaluation|Toulouse, France|18年5月11日/18年12月5日|“2018年录用率”：/=|
-|19|LISA'2018|Large Installation system Administration Conference|Portland, OR, USA|19年6月18日/19年10月28日|“2018年录用率”：/=%|
-|20|MSST'2019|Mass Storage Systems and Technologies|Santa Clara University|19年1月7日/19年5月20日|“2018年录用率”：/=%|
+|17|FPGA‘2019|ACM/SIGDA International Symposium on Field-Programmable Gate Arrays|Seaside, California, USA|18年9月24日/19年2月24日|“2019年录用率”：/=|
+|18|Performance'2019|International Symposium on Computer Performance, Modeling, Measurements and Evaluation|Washington DC, USA|18年7月27日/19年2月16日|“2019年录用率”：/=|
+|19|LISA'2019|Large Installation system Administration Conference|Portland, OR, USA|19年6月18日/19年10月28日|“2019年录用率”：/=%|
+|20|MSST'2019|Mass Storage Systems and Technologies|Santa Clara University|19年1月7日/19年5月20日|“2019年录用率”：/=%|
 |21|PACT'2019|Parallel Architectures and Compilation Techniques|Seattle,WA,USA|19年4月15日/19年9月21日|“2018年录用率”：31/119=26%|
 |23|RTAS'2019|Real-Time and Embedded Technology and Applications Symposium|Montreal, Canada|18年10月17日/19年4月16日|“2018年录用率”：34/198=17.1%|
-|24|VEE'2018|Virtual Execution Environments| Williamsburg，Virginia，United States|17年12月13日/18年3月25日|“2018年录用率”：7/22=32%|
-|25|CODES+ISSSACM/IEEE'2019|Conf. Hardware/Software Co-design and System Synthesis|New York, USA|2019年4月5日/2018年10月13日|“2018年录用率”：/=%|
-|26|ITC'2019|International Test Conference|Washington DC, USA|19年4月20日/19年11月11日|“2018年录用率”：/=%|
+|24|VEE'2019|Virtual Execution Environments| Providence, Rhode Island, USA|18年12月28日/19年4月13日|“2018年录用率”：7/22=32%|
+|25|CODES+ISSSACM/IEEE'2019|Conf. Hardware/Software Co-design and System Synthesis|New York, USA|2019年4月5日/2019年10月13日|“2019年录用率”：/=%|
+|26|ITC'2019|International Test Conference|Washington DC, USA|19年4月20日/19年11月11日|“2019年录用率”：/=%|
 |27|SOCC'2019|ACM Symposium on Cloud Computing|Chaminade, Santa Cruz, California|19年6月10日/19年11月20日|“2018年录用率”：/=%|
 |28|CLUSTER'2019|IEEE Internation Conference on Cluster Computing|Albuquerque, New Mexico, USA|19年5月10日/19年9月23日|“2019年录用率”：/=%|
 
