@@ -18,3 +18,4 @@
 |16| CCGRID 2019 |IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing|Larnaca, Cyprus| 18年12月14日/19年5月14日 |“2018”：/=%  |
 |17| NPC 2019 |IFIP International Conference on Network and Parallel Computing|Hohhot, China|19年5月15日/19年8月22日|“2019”：/=%     |
 |18| ICA3PP 2019 |International Conference on Algorithms and Architectures for Parallel Processing|Swinburne University of Technology, Australia.| 19年6月24日/19年12月9日 |“2015”：/=%  |
+|19| CASES 2019 |IFIP International Conference on Network and Parallel Computing|Hohhot, China|19年5月15日/19年8月22日|“2019”：/=%     |
