@@ -154,21 +154,22 @@
 
 | 序号 | 会议名'年份 | 会议全名 | 地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | --------- | ------- | ----------------- | -------------------- | --------------------------- |
-|1|STOC'2018|ACM Symposium on Theory of Computing|Los Angeles, CA|17年11月3日/18年6月25日|"2017": 103/422=24.4%|
-|2|FOCS'2018|IEEE Symposium on Foundations of Computer Science|Paris, France|18年4月6日/18年10月7日|"2016":85/307=27.7%|
-|3|LICS'2018|IEEE Symposium on Logic in Computer Science|Oxford，UK|18年1月31日/18年7月9日|"2005": 44/127=34.6%|
-|4|CAV'2018 |Computer Aided Verification|Oxford，UK|18年1月31日/18年7月14日|“2017年录用率”:57/177=32.2%|
+|1|STOC'2019|ACM Symposium on Theory of Computing|Phoenix, Arizona|18年11月2日/19年6月23日||
+|2|FOCS'2019|IEEE Symposium on Foundations of Computer Science|Baltimore, Maryland|19年4月5日/19年11月9日||
+|3|LICS'2019|IEEE Symposium on Logic in Computer Science|Vancouver, Canada|19年1月4日/19年6月24日||
+|4|CAV'2019 |Computer Aided Verification|NYU School of Law near Washington Square Park,New York City|19年1月31日/19年7月15日||
+|5|SODA'2019|ACM-SIAM Symposium on Discrete Algorithms|San Diego, California, USA|18年7月5日/19年1月6日||
 
 1.2 B类
 
 | 序号 | 会议名'年份 | 会议全名| 地点              | 时间：截稿日/召开日     | “X年录用率”：录用数/投稿数=录用率 |
 | ---- | -- |----------- | ----------------- | ----------------------- | --------------------------------- |
-|1|SoCG'2018|ACM Symposium on Computational Geometry|Budapest，Hundary|17年10月11日/18年6月11日|“2018”:73/177=35.4%|
+|1|SoCG'2019|ACM Symposium on Computational Geometry|Portland, Oregon, USA|18年11月28日/19年6月18日||
 |2|SODA'2019|ACM-SIAM Symposium on Discrete Algorithms|San Diedo，California,USA|18年7月5日/19年1月6日|“2017”:181/533=34%|
-|3|CADE/IJCAR'2018|Conference on Automated Deduction/The International Joint Conference on Automated Reasoning|Oxford, United Kingdom|18年2月4日/18年7月14日|“2017”:181/533=34%|
-|4|CCC'2018|IEEE Conference on Computational Complexity|New Brunswick, New Jersey|18年1月24日/18年7月18日|“2017”: 33/98=33.7%|
-|5|ICALP'2018|International Colloquium on Automata, Languages and Programming|Prague, Czech Republic|18年2月16日/18年7月10日|“2017”:88/296=29.7%|
-|6||International Conference on Concurrency Theory'2018|Beijing, China|18年4月17日/18年9月4日|“2017”:36/86=41.86%|
-|7||International Conference on Hybrid Systems:Computation and Control'2019|Montreal, Canada|18年10月10日/19年4月16日|“2018”:28/58=48%|
-|8||European Symposium on Algorithms'2019|Munich/Garching, Germany|?/19年9月10日|“2018”:73/307=23.78%|
+|3|CADE/IJCAR'2019|Conference on Automated Deduction/The International Joint Conference on Automated Reasoning|Natal — Brazil|19年2月22日/19年8月23日||
+|4|CCC'19|IEEE Conference on Computational Complexity|New Brunswick, NJ, USA|19年2月19日/19年7月18日||
+|5|ICALP'2019|International Colloquium on Automata, Languages and Programming|Patras, Greece|19年2月18日/18年7月8日||
+|6|CONCUR'19|International Conference on Concurrency Theory|Amsterdam, the Netherlands|19年4月22日/19年8月26日||
+|7|HSCC'2019|International Conference on Hybrid Systems:Computation and Control'2019|Pittsburgh, Pennsylvania, USA|18年10月10日/19年4月16日|“2018”:28/58=48%|
+|8|ESA'2019|European Symposium on Algorithms'2019|Munich, Germany|19年4月26日/19年9月9日|“2018”:73/307=23.78%|
 
