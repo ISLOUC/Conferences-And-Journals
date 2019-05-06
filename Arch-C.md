@@ -18,4 +18,11 @@
 |16| CCGRID 2019 |IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing|Larnaca, Cyprus| 18年12月14日/19年5月14日 |“2018”：/=%  |
 |17| NPC 2019 |IFIP International Conference on Network and Parallel Computing|Hohhot, China|19年5月15日/19年8月22日|“2019”：/=%     |
 |18| ICA3PP 2019 |International Conference on Algorithms and Architectures for Parallel Processing|Swinburne University of Technology, Australia.| 19年6月24日/19年12月9日 |“2015”：/=%  |
-|19| CASES 2019 |IFIP International Conference on Network and Parallel Computing|Hohhot, China|19年5月15日/19年8月22日|“2019”：/=%     |
+|19| CASES 2019 | International Conference on Compilers, Architectures, and Synthesis for Embedded Systemsing|New York, USA|19年4月5日/19年10月13日|“2019”：/=%     |
+|20| FPT 2018 | International Conference on Field-Programmable Technology|Naha, Okinawa, Japan|18年9月3日/18年12月11日|“2018”：/=%     |
+|21| ICPADS 2019 | International Conference on Parallel and Distributed Systems|Singapore|18年7月13日/18年12月11日|“2018”：/=%     |
+|22| ISCAS 2019 | International Symposium on Circuits and Systems|Sapporo, Japan|18年11月11日/19年5月26日|“2019”：/=%     |
+|23| ISLPED 2019 | International Symposium on Low Power Electronics and Design|EPFL, Lausanne, Switzerland|19年3月15日/19年x月x日|“2019”：/=%     |
+|24| ISPD 2019 | International Symposium on Physical Design|San Francisco, California, USA|18年10月12日/19年4月14日|“2019”：/=%     |
+|25| HotI 2019 | Symposium on high-performance interconnects|Santa Clara, CA, USA|19年5月10日/19年8月14日|“2019”：/=%     |
+|26| VTS 2019 | VLSI Test Symposium|Monterey, California, USA|18年10月26日/19年4月23日|“2019”：/=%     |
